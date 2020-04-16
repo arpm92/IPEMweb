@@ -1,0 +1,121 @@
+- fullname: Anlagen der Umformtechnik (4MAB58500V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39185&periodId=189&navigationPosition=studiesOffered,searchCourses
+  semester: So
+  curses:
+    obligation:
+    option:
+     - BA-MB
+
+
+- fullname: Füge- und Umformtechnik (4MAB50300V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39170&periodId=189
+  semester: So
+  curses:
+    obligation:
+     - BA-FZB
+     - BA-IPEM
+     - BA-MB
+     - BA-MBD
+     - BA-WIW
+    option:
+
+- fullname: Trenntechnik und Urformen (4MAB50200V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37144&periodId=188
+  semester: Wi
+  curses:
+    obligation:
+     - BA-FZB
+     - BA-IPEM
+     - BA-MB
+     - BA-MBD
+     - BA-WIW
+    option:
+     - MA-MWWT
+     
+- fullname: Messtechniklabor (4MAB10100V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39113&periodId=189&navigationPosition=studiesOffered,searchCourses
+  semester: So
+  curses:
+    obligation:
+     - BA-FZB
+     - BA-IPEM
+     - BA-MB
+     - BA-MBD
+     - BA-WIW
+    option:
+
+- fullname: Angewandte Umformverfahren in der Automobilindustrie (4MAB52300V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37149&periodId=188&navigationPosition=studiesOffered,searchCourses
+  semester: Wi
+  curses:
+    obligation:
+     - BA-FZB
+     - MA-MWWT
+    option:
+     - MA-IPEM
+     - MA-MB
+
+- fullname: Umformprozesse (4MAB58400V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37164&periodId=186
+  semester: Wi
+  curses:
+    obligation:
+    option:
+     - BA-FZB
+     - BA-IPEM
+     - BA-MB
+     - BA-MBD
+     - BA-WIW
+ 
+- fullname: Fertigungstechnische Auslegung von Strukturbauteilen (4MAB50800V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37146&periodId=186
+  semester: Wi
+  curses:
+    obligation:
+     - MA-FZB
+    option:
+
+- fullname: Simulation und Berechnung in der Umformtechnik (4MAB58100V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37162&periodId=186
+  semester: Wi
+  curses:
+    obligation:
+    option:
+     - MA-FZB
+     - MA-IPEM
+     - MA-MB
+     - MA-MWWT
+     - MA-WIW
+
+- fullname: Ausgewählte Beispiele der Fertigungsplanung von Umformteilen (4MAB58200V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39184&periodId=123
+  semester: So
+  curses:
+    obligation:
+    option:
+     - MA-FZB
+     - MA-IPEM
+     - MA-MB
+     - MA-MWWT
+     - MA-WIW
+
+- fullname: Profilumformung (4MAB53700V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39175&periodId=189
+  semester: So
+  curses:
+    obligation:
+    option:
+     - MA-FZB
+     - MA-WIW
+
+- fullname: Prozessauslegung und Berechnung in der Umformtechnik (4MAB58150V)
+  url: https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37163&periodId=188&navigationPosition=studiesOffered,searchCourses
+  curses:
+    obligation:
+    option:
+     - MA-FZB
+     - MA-IPEM
+     - MA-MB
+     - MA-MWWT
+     - MA-WIW
+

@@ -1,0 +1,137 @@
+---
+layout: default
+---
+
+<div class="w3-row w3-margin-top">
+  <div class="w3-quarter">
+    {% if page.image %}
+      <img src={{ site.baseurl }}{{ page.image }} alt={{ page.image }} style="width:100%;">
+    {% endif %}
+  </div>
+  <div class="w3-threequarter">
+    <div class="w3-container">
+      <h1>{{ page.fullname }}</h1>
+    </div>
+    {% if page.tel %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Telephone:
+        </div>
+        <div class="w3-col s9">
+          {{ page.tel }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.fax %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Fax:
+        </div>
+        <div class="w3-col s9">
+          {{ page.fax }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.email %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          E-Mail:
+        </div>
+        <div class="w3-col s9">
+          <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+        </div>
+      </div>
+    {% endif %}
+    {% if page.office %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Office:
+        </div>
+        <div class="w3-col s9">
+          {{ page.office }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.address %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Address:
+        </div>
+        <div class="w3-col s9">
+          {{ page.address }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.hours %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Office hours:
+        </div>
+        <div class="w3-col s9">
+          {{ page.hours }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.career %}
+      <div class="w3-container w3-row">
+        <h2>Werdegang</h2>
+      </div>
+      {% for job in page.career %}
+        <div class="w3-container w3-row">
+          <div class="w3-col s3">
+            {{ job[0] }}
+          </div>
+          <div class="w3-col s9">
+            {{ job[1] }}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+    {% if page.publications %}
+      <div class="w3-container w3-row">
+        <h2>Publications</h2>
+	{% for publication in page.publications %}
+          <div class="w3-row s9">
+            {{ publication }}
+          </div>
+          <p>
+         {% endfor %}
+        </div>
+      {% if page.publications.journals %}
+        <div class="w3-container w3-row">
+          <h3>Journals</h3>
+          {% for publication in page.publications.journals %}
+            <div class="w3-row s9">
+              {{ publication }}
+            </div>
+            <p>
+          {% endfor %}
+        </div>
+      {% endif %}
+      {% if page.publications.books %}
+        <div class="w3-container w3-row">
+          <h3>Books</h3>
+          {% for publication in page.publications.books %}
+            <div class="w3-row s9">
+              {{ publication }}
+            </div>
+            <p>
+          {% endfor %}
+        </div>
+      {% endif %}
+      {% if page.publications.conferences %}
+        <div class="w3-container w3-row">
+          <h3>Paper for Conferences</h3>
+          {% for publication in page.publications.conferences %}
+            <div class="w3-row s9">
+              {{ publication }}
+            </div>
+            <p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
+
+<p>

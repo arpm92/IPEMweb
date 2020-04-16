@@ -1,0 +1,26 @@
+<!-- News column for the right side -->
+
+<div class="w3-container w3-col l12 m12 s12">
+  <img src="{{site.baseurl}}/images/uts.jpg" alt="Lehrstuhl Logo" style="width:100%">
+</div>
+
+<div class="w3-container w3-col l12 m12 s12">
+
+<h2>News</h2>
+
+{% for post in site.posts %}
+
+<div class="w3-container gray">
+  {{ post.date | date: "%b %-d, %Y" }}
+</div>
+
+<div class="w3-container">
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    {{ post.title }}
+  </a>
+</div>
+
+{% endfor %}
+
+</div>
+<p>

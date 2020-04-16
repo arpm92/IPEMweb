@@ -1,0 +1,70 @@
+<!-- Navigation medium and large -->
+
+{% assign color_chair = "navbutton-white" %}
+{% assign color_about = "navbutton-white" %}
+{% assign color_team = "navbutton-white" %}
+{% assign color_research = "navbutton-white" %}
+{% assign color_lectures = "navbutton-white" %}
+{% assign color_career = "navbutton-white" %}
+{% assign color_contact = "navbutton-white" %}
+{% assign color_bendingsiegen = "navbutton-white" %}
+{% assign color_smaps = "navbutton-white" %}
+
+{% if page.url == "/" %}
+  {% assign color_chair = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/about/" %}
+  {% assign color_about = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/team/" %}
+  {% assign color_team = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/mitarbeiter/" %}
+  {% assign color_team = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/research/" %}
+  {% assign color_research = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/lectures/" %}
+  {% assign color_lectures = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/career/" %}
+  {% assign color_career = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/contact/" %}
+  {% assign color_contact = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/bendingsiegen/" %}
+  {% assign color_bendingsiegen = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/smaps/" %}
+  {% assign color_smaps = "navbutton-violet" %}
+{% endif %}
+
+<a href="{{ site.baseurl }}/">
+ <div class="navbutton {{ color_chair }} navbutton-left">Startseite</div>
+</a>
+<a href="{{ site.baseurl }}/about">
+  <div class="navbutton {{ color_about }} navbutton-left">Lehrstuhl</div>
+</a>
+<a href="{{ site.baseurl }}/team">
+  <div class="navbutton {{ color_team }} navbutton-left">Mitarbeiter</div>
+</a>
+<a href="{{ site.baseurl }}/research">
+  <div class="navbutton {{ color_research }} navbutton-left">Forschung</div>
+</a>
+<a href="{{ site.baseurl }}/lectures">
+  <div class="navbutton {{ color_lectures }} navbutton-left">Studium</div>
+</a>
+<a href="{{ site.baseurl }}/career">
+  <div class="navbutton {{ color_career }} navbutton-left">Karriere</div>
+</a>
+<a href="{{ site.baseurl }}/contact">
+  <div class="navbutton {{ color_contact }} navbutton-left">Kontakt</div>
+</a>
+<a href="{{ site.baseurl }}/bendingsiegen">
+  <div class="navbutton {{ color_bendingsiegen }} navbutton-left">Biegen in Siegen</div>
+</a>
+<a href="https://protech.mb.uni-siegen.de/smaps" target="_blank">
+  <div class="navbutton {{ color_smaps }} navbutton-left">Smaps</div>
+</a>

@@ -1,0 +1,137 @@
+<!-- Does an English version exist? -->
+{% if site.data.en contains page.url %}
+        {% assign en = true %}
+{% endif %}
+
+<!-- Page header small -->
+
+<div class="w3-row w3-hide-large w3-hide-medium">
+  <div class="w3-container w3-col s6">
+     <a href="http://www.uni-siegen.de">
+       <img src="{{site.baseurl}}/images/logo_uni_siegen_4c.svg" alt="Uni Siegen Logo" style="width:100%">
+     </a>
+  </div>
+  <div class="w3-container w3-col s6">
+    <a href="http://protech.mb.uni-siegen.de/">
+      <img src="{{site.baseurl}}/images/protech_logo.svg" alt="PROTECH Institutslogo" style="width:100%">
+    </a>
+  </div>
+</div>
+<div class="w3-row w3-hide-large w3-hide-medium">
+  <div class="w3-right w3-padding-right w3-padding-top">
+    {%  if page.url contains "/en" %}
+      <a href="{{ site.baseurl }}{{ page.url }}../">
+        <img src="{{ site.baseurl }}/images/de.svg" alt="Deutsch" width="30" height="15">
+      </a>
+    {% elsif en %}
+      <a href="{{ site.baseurl }}{{ page.url }}en/">
+        <img src="{{ site.baseurl }}/images/en.svg" alt="Deutsch" width="30" height="15">
+      </a>
+    {% endif %}
+  </div>
+</div>
+
+<!-- Page header medium and large -->
+
+<div class="w3-row w3-hide-small">
+  <div class="w3-col width-left-col">
+     <a href="http://www.uni-siegen.de">
+       <img src="{{site.baseurl}}/images/logo_uni_siegen_4c.svg" alt="Uni Siegen Logo" style="width:100%">
+     </a>
+  </div>
+  <div class="w3-col width-center-col">
+     <img src="{{site.baseurl}}/images/header_05.jpg" alt="Bild Automatisierung" style="width:100%; margin-bottom: -6px;">
+  </div>
+  <div class="w3-col width-right-col">
+    <a href="http://protech.mb.uni-siegen.de/">
+      <img src="{{site.baseurl}}/images/protech_logo.svg" alt="PROTECH Institutslogo" style="width:90%; margin-left: 5%; margin-right: 5%;">
+    </a>
+  </div>
+</div>
+
+<div class="w3-row w3-hide-small no-print">
+  <div class="w3-col navrow width-left-col gray top-border-nt-faculty">
+    <a href="http://www.uni-siegen.de/nt/">
+      <div class="navbutton navbutton-faculty navbutton-left">
+        Fakultät IV
+      </div>
+    </a>
+  </div>
+  <div class="w3-col navrow width-center-col top-border-nt-faculty">
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/interessenten/index.html">
+        <div class="navbutton navbutton-violet">Schüler</div>
+      </a>
+      </div>
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/studienanfaenger/index.html">
+        <div class="navbutton navbutton-violet">Studienanfänger</div>
+      </a>
+    </div>
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/studierende/index.html">
+        <div class="navbutton navbutton-violet">Studierende</div>
+      </a>
+    </div>
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/wissenschaftler/index.html">
+        <div class="navbutton navbutton-violet">Wissenschaftler</div>
+      </a>
+    </div>
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/forschung/industriekooperationen.html">
+        <div class="navbutton navbutton-violet">Industrie</div>
+      </a>
+    </div>
+    <div class="w3-col l2 m4 s12">
+      <a href="http://www.mb.uni-siegen.de/beschaeftigte/index.html">
+        <div class="navbutton navbutton-violet">Beschäftigte</div>
+      </a>
+    </div>
+  </div>
+  <div class="w3-col navrow width-right-col w3-hide-small top-border-nt-faculty">
+    <div class="w3-col l4 m6 s12">
+      <a href="https://mail.uni-siegen.de/owa">
+        <div class="navbutton navbutton-gray">Webmail</div>
+      </a>
+    </div>
+    <div class="w3-col l4 m6 s12">
+      <a href="https://unisono.uni-siegen.de">
+        <div class="navbutton navbutton-gray">unisono</div>
+      </a>
+    </div>
+    <div class="w3-col l4 m12 s12">
+      <a href="http://www.uni-siegen.de/start/formularcenter/">
+        <div class="navbutton navbutton-gray">Formulare</div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="w3-row w3-hide-small no-print">
+  <div class="w3-col navrow width-left-col">
+    <a href="http://protech.mb.uni-siegen.de/">
+      <div class="navbutton navbutton-faculty navbutton-left" style="width: 100%;">
+        PROTECH Institut
+      </div>
+    </a>
+  </div>
+  <div class="w3-col width-center-col">
+    <div class="w3-hide-large">
+      <br> <br>
+    </div>
+    <div class="w3-right w3-padding-right w3-padding-top">
+      {% if page.url contains "/en" %}
+        <a href="{{ site.baseurl }}{{ page.url }}../">
+          <img src="{{ site.baseurl }}/images/de.svg" alt="lang" width="30" height="15">
+        </a>
+      {% elsif en %}
+        <a href="{{ site.baseurl }}{{ page.url }}en/">
+          <img src="{{ site.baseurl }}/images/en.svg" alt="lang" width="30" height="15">
+        </a>
+      {% endif %}
+    </div>
+  </div>
+  <div class="w3-col navrow width-right-col">
+  </div>
+</div>

@@ -1,0 +1,109 @@
+* {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+} 
+
+.navbutton {
+    border: none;
+    font-size: 14px;
+    padding: 3px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    float: left;
+    width: 100%;
+}
+
+.navrow {
+    height: 1.8em;
+}
+
+.width-left-col {
+    width:15.625%;
+}
+
+.width-center-col {
+    width: 68.75%
+}
+
+.width-right-col {
+    width:15.625%;
+}
+
+.gray {
+    background-color: rgb(221, 221, 221);
+}
+
+.white-text {
+    color: rgb(255, 255, 255);
+}
+
+.white-text a {
+    text-decoration: none;
+}
+
+.background-color-nt-faculty {
+    background-color: #611543;
+}
+
+.background-color-university {
+   background-color: rgb(4, 3, 133);
+}
+
+.top-border-nt-faculty {
+    border: 3px #611543;
+    border-top-style: solid;
+}
+
+.navbutton-violet {
+    background-color: #611543; /* Violet */
+    color: white;
+    font-weight: bold;
+}
+
+.navbutton-violet:hover {
+    background-color: rgb(221, 221, 221);
+    color: #611543;
+}
+
+.navbutton-faculty {
+    background-color: rgb(221, 221, 221);
+    color: black;
+    text-align: left;
+    font-weight: bold;
+
+}
+
+.navbutton-gray {
+    background-color: rgb(221, 221, 221);
+    color: #180586; /* Blue */
+    font-weight: bold;
+}
+
+.navbutton-gray:hover {
+    background-color: #180586; /* Blue */
+    color: rgb(221, 221, 221);
+}
+
+.navbutton-white {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.navbutton-white:hover {
+    background-color: #611543; /* Violet */
+    color: white;
+}
+
+.navbutton-left {
+    text-align: left;
+    padding: 3px 10px;
+    width: 100%;
+}
+
+@media print {
+    .no-print		{
+        display:none;
+    }
+}

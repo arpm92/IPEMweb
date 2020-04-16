@@ -1,0 +1,49 @@
+h1 {
+    font-size: 20px;
+    color: black;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+h3 {
+    font-size: 12.8px;
+    font-weight: bold;
+    color: black;
+}
+
+p, td, div {
+    font-size: 12.8px;
+    color: rgb(68, 68, 68);
+}
+
+.post-link {
+    font-size: 12.8px;
+    color: rgb(68, 68, 68);
+}
+
+body
+{
+    font-size: 12.8px;
+}
+
+.tablestyle, .teamtablestyle, .lecturetablestyle {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tablestyle th, .lecturetablestyle th {
+    background-color: rgb(221, 221, 221);
+}
+
+.teamtablestyle td {
+    width: 50%;
+}
+
+.lecturetablestyle td {
+    table-layout: fixed;
+    width: 75%;
+}

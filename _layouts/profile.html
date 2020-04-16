@@ -1,0 +1,117 @@
+---
+layout: default
+---
+
+
+<div class="w3-row w3-margin-top">
+  <div class="w3-quarter">
+    {% if page.image %}
+      <img src={{ site.baseurl }}{{ page.image }} alt={{ page.image }} style="width:100%;">
+    {% endif %}
+  </div>
+  <div class="w3-threequarter">
+    <div class="w3-container">
+      <h1>{{ page.fullname }}</h1>
+    </div>
+    {% if page.tel %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Telefon:
+        </div>
+        <div class="w3-col s9">
+          {{ page.tel }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.fax %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Fax:
+        </div>
+        <div class="w3-col s9">
+          {{ page.fax }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.email %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          E-Mail:
+        </div>
+        <div class="w3-col s9">
+          <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+        </div>
+      </div>
+    {% endif %}
+    {% if page.office %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          B&uuml;ro:
+        </div>
+        <div class="w3-col s9">
+          {{ page.office }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.address %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Anschrift:
+        </div>
+        <div class="w3-col s9">
+          {{ page.address }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.hours %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Sprechzeiten:
+        </div>
+        <div class="w3-col s9">
+          {{ page.hours }}
+        </div>
+      </div>
+    {% endif %}
+    {% if page.career %}
+      <div class="w3-container w3-row">
+        <h2>Werdegang</h2>
+      </div>
+      {% for job in page.career %}
+        <div class="w3-container w3-row">
+          <div class="w3-col s3">
+            {{ job[0] }}
+          </div>
+          <div class="w3-col s9">
+            {{ job[1] }}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+    
+    {% if page.publication %}
+      <div class="w3-container w3-row">
+        <h2>Publikationen</h2>
+        {% if page.ORCIDlink %}
+          <div class="w3-row s9">
+            ORCID: <a href="{{ page.ORCIDlink }}" target="_blank">{{ page.ORCIDlink }}</a>
+          </div>
+          <p>
+         {% endif %}
+
+	  {% for publication in site.data.publications %}
+            {% for autor in publication.autors %}
+              {% if autor == page.filename %}
+		<div class="w3-row s9">
+                  {{ publication.fullname }}
+                </div>
+                <p>
+              {% endif %}
+           {% endfor %}
+         {% endfor %}
+        </div>
+    {% endif %}
+  </div>
+</div>
+
+<p>

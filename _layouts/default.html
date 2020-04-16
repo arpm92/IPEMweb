@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="w3-row w3-hide-small">
+      <div class="w3-col width-left-col no-print">
+        {% if page.url contains "/en" %}
+          {% include navigation_en.html %}
+        {% else %}
+          {% include navigation.html %}
+        {% endif %}
+      </div>
+
+      <div class="w3-container w3-col width-center-col">
+        {{ content }}
+      </div>
+
+      <div class="w3-col width-right-col">
+        {% if page.url contains "/en" %}
+          {% include news_en.html %}
+        {% else %}
+          {% include news.html %}
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="w3-container w3-hide-large w3-hide-medium">
+      {{ content }}
+    </div>
+    <div class="w3-container w3-hide-large w3-hide-medium no-print">
+        {% if page.url contains "/en" %}
+          {% include navigation_en.html %}
+        {% else %}
+          {% include navigation.html %}
+        {% endif %}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
