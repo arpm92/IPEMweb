@@ -1,345 +1,71 @@
-- filename: bengel
-  fullname: Univ.-Prof. Dr.-Ing. Bernd Engel
+- filename: burggraef
+  fullname: Univ.-Prof. Dr.-Ing. Peter Burggräf, MBA
   status: faculty
-  tel: +49 271 740 - 2849
-  fax: +49 271 740 - 14404
-  email: bernd.engel@uni-siegen.de
-  office: BS-D 104
+  tel: +49 271 740 - 2629
+  fax: +49 271 740 - 12628
+  email: peter.burggraef@uni-siegen.de
+  office: PB-A 308 
   address: Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
-           Lehrstuhl für Umformtechnik<br>
-           Breite Straße 11<br>
+           Lehrstuhl für International Production Engineering and Management<br>
+           Paul-Bonatz-Str. 9-11<br>
            57076 Siegen
-  image: /team/images/engel.jpg
-  hours: Dienstag von 14:00 Uhr bis 16:00 Uhr, nur nach Vereinbarung
+  image: /team/images/burggraef.jpg
+  hours: nur nach Vereinbarung
   publication: true
 
-- filename: loos
-  fullname: Hannelore Loos
+- filename: wagner
+  fullname: Dr.-Ing. Johannes Wagner, M.Sc.
+  status: faculty
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: johannes.wagner@uni-siegen.de
+  office: PB-A 308 
+  address: Universität Siegen<br>
+           Fakultät IV<br>
+           Department Maschinenbau<br>
+           Lehrstuhl für International Production Engineering and Management<br>
+           Paul-Bonatz-Str. 9-11<br>
+           57076 Siegen
+  image: /team/images/wagner.jpg
+  hours: nur nach Vereinbarung
+  publication: true
+
+- filename: Klass
+  fullname: Mailin Klaas
   status: secretary
-  tel: +49 271 740 - 4404
-  fax: +49 271 740 - 14404
-  email: uts-sekretariat@uni-siegen.de
-  office: BS-D 105
+  tel: +49 271 740 - 2630
+  fax: +49 271 740 - 12628
+  email: sekretariat.ipem@uni-siegen.de
+  office: PB-A 307
   address: Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
            Lehrstuhl für Umformtechnik<br>
            Breite Straße 11<br>
            57076 Siegen
-  image: /team/images/loos.jpg
+  image: /team/images/nan.jpg
   hours: Mo. - Do. 07:30 bis 12:00 Uhr
 
-- filename: morez
-  fullname: Daniel Morez
+- filename: perez
+  fullname: Dipl.-Ing. Alejandro Perez
   status: staff
-  office: BS-D 004
-  tel: +49 271 740 - 2946
-  fax: +49 271 740 - 12946
-  email: daniel.morez@uni-siegen.de
-  image: /team/images/nan.jpg
-  hours: nur nach Vereinbarung
-
-- filename: buerger
-  fullname: Dipl.-Ing.(FH) Wolfgang Bürger
-  status: staff
-  office: PB-A 0109
-  tel: +49 271 740 - 2787
-  fax: +49 271 740 - 12787
-  email: wolfgang.buerger@uni-siegen.de
-  image: /team/images/buerger.jpg
-  hours: Mo. u. Do. 08:00 bis 11:00 Uhr
-
-- filename: reichmann
-  fullname: Henning Reichmann
-  status: staff
-  office: BS-B 104
-  tel: +49 271 740 - 2645
+  team: Gruppe Fabrikplanung für den Mittelstand
+  tel: +49 271 740 - 4509
   fax: +49 271 740 - 14404
-  email: henning.reichmann@uni-siegen.de
-  image: /team/images/reichmann.jpg
-  hours: nur nach Vereinbarung
-  
-- filename: steinheimer
-  fullname: Dr.-Ing. Rainer Steinheimer
-  status: phd-metal
-  team: Biegen von Rohren und Profilen metallischer Werkstoffe
-  tel: +49 271 740 - 2469
-  fax: +49 271 740 - 14404
-  email: rainer.steinheimer@uni-siegen.de
-  image: /team/images/steinheimer.jpg
-  office: BS-D 109
-  hours: nur nach Vereinbarung
-  publication: true
-  
-- filename: kuhnhen
-  fullname: Dr.-Ing. Christopher Kuhnhen
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 2756
-  fax: +49 271 740 - 12756
-  email: christopher.kuhnhen@uni-siegen.de
-  image: /team/images/kuhnhen.jpg
-  office: BS-D 004
-  hours: nur nach Vereinbarung
-  publication: true
-  
-- filename: boecking
-  fullname: Dipl.-Ing. Jan Böcking
-  status: phd-thermo
-  team: Biegen von Rohren und Profilen faserverstärkter Thermoplaste
-  tel: +49 271 740 - 2428
-  fax: +49 271 740 - 14404
-  email: jan.boecking@uni-siegen.de
-  office: BS-D 101
-  image: /team/images/boecking.jpg
-  hours: nur nach Vereinbarung
-  publication: true
-  
-- filename: borchmann
-  fullname: M.Eng. Linda Borchmann
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 2482
-  fax: +49 271 740 - 14404
-  email: linda.borchmann@uni-siegen.de
-  image: /team/images/borchmann.jpg
+  email: Gruppe Fabrikplanung für den Mittelstand
+  image: /team/images/perez.jpg
   office: BS-D 109
   hours: nur nach Vereinbarung
   publication: true
 
-- filename: graef
-  fullname: M.Eng. Jasmin Graef
-  status: phd-thermo
-  team: Biegen von Rohren und Profilen faserverstärkter Thermoplaste
-  tel: +49 271 740 - 2482
-  fax: +49 271 740 - 14404
-  email: jasmin.graef@uni-siegen.de
-  image: /team/images/graef.jpg
-  office: BS-D 109
-  hours: nur nach Vereinbarung
-  publication: true
-
-- filename: nebeling
-  fullname: M.Sc. Daniel Nebeling
-  status: phd-metal
-  tel: +49 271 740 - 4033
-  fax: +49 271 740 - 14033
-  email: daniel.nebeling@uni-siegen.de
-  image: /team/images/nebeling.jpg
-  office: BS-D 109
-  hours: nur nach Vereinbarung
-  publication: false
-
-
-- filename: heftrich
-  fullname: Dipl.-Ing. Christopher Heftrich
-  status: phd-metal
-  tel: +49 271 740 - 2443
-  fax: +49 271 740 - 14404
-  email: christopher.heftrich@uni-siegen.de
-  image: /team/images/heftrich.jpg
-  office: BS-D 109
-  hours: nur nach Vereinbarung
-  publication: true
-
-- filename: frohn
-  fullname: Dipl.-Ing. Peter Frohn-Sörensen
-  status: phd-metal
-  team: Biegen von Rohren und Profilen metallischer Werkstoffe
-  tel: +49 271 740 - 4666
-  fax: +49 271 740 - 14404
-  email: peter.frohn@uni-siegen.de
-  image: /team/images/frohn.jpg
-  office: BS-D 101
-  hours: nur nach Vereinbarung
-  publication: true
-  ORCIDlink: https://orcid.org/0000-0003-0896-7083
- 
-- filename: langhammer
-  fullname: M.Sc. Kay Lorenz Langhammer
-  status: phd-metal
-  team: Biegen von Rohren und Profilen metallischer Werkstoffe
-  tel: +49 271 740 - 2724
-  fax: +49 271 740 - 12724
-  email: kay.langhammer@uni-siegen.de
-  image: /team/images/langhammer.jpg
-  office: BS-D 101
-  hours: Nach Vereinbarung
-  publication: true
- 
-- filename: reuter
-  fullname: M.Sc. Jonas Reuter
-  status: phd-metal
-  team: Biegen von Rohren und Profilen metallischer Werkstoffe
-  tel: +49 271 740 - 2255
-  fax: +49 271 740 - 12255
-  email: jonas.reuter@uni-siegen.de
-  image: /team/images/reuter.jpg
-  office: BS-D 101
-  hours: Nach Vereinbarung
-  publication: false
- 
-- filename: schiller
-  fullname: M.Sc. Michael Schiller
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 5217
-  fax: +49 271 740 - 15217
-  email: michael.schiller@uni-siegen.de
-  image: /team/images/schiller.jpg
-  office: BS-D 109
-  hours: Nach Vereinbarung
-  publication: true
-
-- filename: geueke
-  fullname: M.Sc. Michael Geueke
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 5217
-  fax: +49 271 740 - 15217
-  email: michael.geueke@uni-siegen.de
-  image: /team/images/geueke.jpg
-  office: BS-D 109
-  hours: Nach Vereinbarung
-  publication: false
-  
-- filename: knoche
-  fullname: M.Sc. Jonas Knoche
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 4362
-  fax: +49 271 740 - 14362
-  email: jonas.knoche@uni-siegen.de
-  image: /team/images/nan.jpg
-  office: BS-D 005
-  hours: Nach Vereinbarung
-  publication: false
- 
-- filename: salman
-  fullname: M.Sc. Sara Salman Al-Maeeni
-  status: phd-bending4.0
-  team: Prozessregelung und cyberphysische Systeme
-  tel: +49 271 740 - 3059
-  fax: +49 271 740 - 14404
-  email: sara.al-maeeni@uni-siegen.de
-  image: /team/images/salman.jpg
-  office: BS-D 005
-  hours: Nach Vereinbarung
-  publication: true
-  ORCIDlink: https://orcid.org/0000-0002-2233-1738
-  
-- filename: poleschke
-  fullname: Dipl.-Ing. Sonja Poleschke
-  status: phd-thermo
-  team: Biegen von Rohren und Profilen faserverstärkter Thermoplaste
-  tel: +49 271 740 - 4400
-  fax: +49 271 740 - 14404
-  email: sonja.poleschke@uni-siegen.de
-  image: /team/images/poleschke.jpg
-  office: BS-D 101
-  hours: Nach Vereinbarung
-  publication: false
-
-- filename: halili
-  fullname: Pascal Halili
-  email: pascal.halili@student.uni-siegen.de
+- filename: _____
+  fullname: _____
+  email: ____@student.uni-siegen.de
   status: student
   
-- filename: stolzj
-  fullname: Jannik Stolz
-  email: jannik.stolz@student.uni-siegen.de
-  status: student
 
-- filename: gabsa
-  fullname: Steffen Gabsa
-  email: steffen.gabsa@student.uni-siegen.de
-  status: student
-
-- filename: kloeckner
-  fullname: Paul-Philipp Klöckner
-  email: paul.kloeckner@student.uni-siegen.de
-  status: student
-
-- filename: lutz
-  fullname: Maximilian Lutz
-  email: maximilian.lutz@student.uni-siegen.de
-  status: student
-
-- filename: mueller
-  fullname: Norman Müller
-  email: norman.mueller@student.uni-siegen.de
-  status: student
-
-- filename: bauer
-  fullname: Univ.-Prof. Dr.-Ing. Dietrich Bauer
-  status: ex
-  
-- filename: thor
-  fullname: Dipl.-Ing. Reinhold Thor
-  status: ex
-
-- filename: groth
-  fullname: Dipl.-Ing. Sebastian Groth
-  status: ex
-
-- filename: buhl
-  fullname: Dr.-Ing. Johannes Buhl
-  status: ex
-
-- filename: cordes
-  fullname: Dipl.-Ing. Stefan Cordes 
-  status: ex
-
-- filename: gerlach
-  fullname: Dr.-Ing. Christian Gerlach
-  status: ex
-
-- filename: hassan
-  fullname: Dr.-Ing. Hassan Raheem Hassan Hassan
-  status: ex
-
-- filename: hinkel
-  fullname: Dr.-Ing. Markus Hinkel
-  status: ex
-
-- filename: mjunge
-  fullname: Dr.-Ing. Markus Junge
-  status: ex
-
-- filename: junge
-  fullname: Dipl.-Ing. Thorsten Junge
-  status: ex
-
-- filename: kersten
-  fullname: Dr.-Ing. Sebastian Kersten
-  status: ex
-
-- filename: kopfer
-  fullname: Dr.-Ing. Peter Kopfer
-  status: ex
-
-- filename: mathes
-  fullname: Dipl.-Ing. Christian Mathes
-  status: ex
-
-- filename: selter
-  fullname: Dr.-Ing. Oliver Selter
-  status: ex
-
-- filename: schmidt
-  fullname: Dipl.-Wirt.-Ing. Armin Schmidt
-  status: ex
-
-- filename: schroeder
-  fullname: Dr.-Ing. Xuelan Schröder
-  status: ex
-
-- filename: soemer
-  fullname: Dipl.-Ing. Evelyne Soemer
-  status: ex
-
-- filename: stolz
-  fullname: Dipl.-Ing. Klaus Dieter Stolz
+- filename: ____
+  fullname: ____
   status: ex
