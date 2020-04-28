@@ -14,10 +14,11 @@
   image: /team/images/burggraef.jpg
   hours: nur nach Vereinbarung
   publication: true
+  active: true
 
 - filename: wagner
   fullname: Dr.-Ing. Johannes Wagner, M.Sc.
-  status: faculty
+  status: oberingenieur
   tel: +49 271 740 - 2630 (Sekretariat)
   fax: +49 271 740 - 12628
   email: johannes.wagner@uni-siegen.de
@@ -31,8 +32,9 @@
   image: /team/images/wagner.jpg
   hours: nur nach Vereinbarung
   publication: true
+  active: true
 
-- filename: Klass
+- filename: klass
   fullname: Mailin Klaas
   status: secretary
   tel: +49 271 740 - 2630
@@ -47,6 +49,60 @@
            57076 Siegen
   image: /team/images/nan.jpg
   hours: Mo. - Do. 07:30 bis 12:00 Uhr
+  active: true
+
+- filename: kringe
+  fullname: Edith Kringe
+  status: secretary
+  tel: +49 271 740 - 
+  fax: +49 271 740 -  
+  email: 
+  office: 
+  address: Universität Siegen<br>
+           Fakultät IV<br>
+           Department Maschinenbau<br>
+           Lehrstuhl für Umformtechnik<br>
+           Breite Straße 11<br>
+           57076 Siegen
+  image: /team/images/nan.jpg
+  hours: Mo. - Do. 07:30 bis 12:00 Uhr
+  active: true
+
+- filename: koke
+  fullname: Benjamin Koke, M.Sc. M.Sc. 
+  status: gruppenleiter
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: 
+  office: 
+  address: Universität Siegen<br>
+           Fakultät IV<br>
+           Department Maschinenbau<br>
+           Lehrstuhl für International Production Engineering and Management<br>
+           Paul-Bonatz-Str. 9-11<br>
+           57076 Siegen
+  image: /team/images/koke.jpg
+  hours: nur nach Vereinbarung
+  publication: true
+  active: true
+
+- filename: sassmannshausen
+  fullname: Till Saßmannshausen, M.Sc. M.Sc.
+  status: gruppenleiter
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: 
+  office: 
+  address: Universität Siegen<br>
+           Fakultät IV<br>
+           Department Maschinenbau<br>
+           Lehrstuhl für International Production Engineering and Management<br>
+           Paul-Bonatz-Str. 9-11<br>
+           57076 Siegen
+  image: /team/images/sassmannshausen.jpg
+  hours: nur nach Vereinbarung
+  publication: true
+  active: true
 
 - filename: perez
   fullname: Dipl.-Ing. Alejandro Perez
@@ -63,15 +119,160 @@
   linkedin: https://www.linkedin.com/in/alejandro-perez-19920930/
   orcid: https://orcid.org/0000-0002-9911-8468
   gschoolar: bla
+  active: true
 
+- filename: bischoff
+  fullname: Oliver Bischoff, M.Sc. 
+  status: staff
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/bischoff.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
 
+- filename: steinberg
+  fullname: Fabian Steinberg, M.Sc. 
+  status: staff
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/steinberg.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: sauer
+  fullname: Carl René Sauer, M.Sc. 
+  status: staff
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: balada
+  fullname: Eva Balada Rosa 
+  status: sprachdozenten
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: mirault
+  fullname: Dr. Hugues Mirault
+  status: sprachdozenten
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: weisser
+  fullname: Tim Weisser, M.Sc.
+  status: extphd
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: thuemmler
+  fullname: Marco Thümmler, M.Sc.
+  status: extphd
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: ehlert
+  fullname: Andreas Ehlert, M.Sc.
+  status: extphd
+  team: 
+  tel: +49 271 740 - 
+  fax: +49 271 740 - 
+  email: .@uni-siegen.de
+  image: /team/images/nan.jpg
+  office: PB-A 
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: 
+  linkedin: 
+  orcid: 
+  gschoolar: bla
+  active: true
+
+- filename: hoefer
+  fullname: Elias Höfer
+  email: elias.hoefer@student.uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
 
 - filename: _____
   fullname: _____
   email: ____@student.uni-siegen.de
+  image: /team/images/nan.jpg
   status: student
+  active: false
   
 
 - filename: ____
   fullname: ____
   status: ex
+  active: false
