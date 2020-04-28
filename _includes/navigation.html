@@ -9,6 +9,11 @@
 {% assign color_contact = "navbutton-white" %}
 {% assign color_smaps = "navbutton-white" %}
 
+{% assign color_submenu = "navbutton-lpurple" %}
+{% assign color_aktuelles = "navbutton-white" %}
+
+
+
 {% if page.url == "/" %}
   {% assign color_chair = "navbutton-violet" %}
 {% endif %}
@@ -36,6 +41,11 @@
 {% if page.url contains "/smaps/" %}
   {% assign color_smaps = "navbutton-violet" %}
 {% endif %}
+{% if page.url == "/aktuelles/" %}
+  {% assign color_chair = "navbutton-violet" %}
+{% endif %}
+
+
 
 <a href="{{ site.baseurl }}/">
  <div class="navbutton {{ color_chair }} navbutton-left">Startseite</div>
@@ -43,9 +53,30 @@
 <a href="{{ site.baseurl }}/about">
   <div class="navbutton {{ color_about }} navbutton-left">Lehrstuhl</div>
 </a>
+<a href="{{ site.baseurl }}/aktuelles">
+  <div class="navbutton {{ color_aktuelles }} navbutton-left">Aktuelles</div>
+</a>
+
+{% if page.url contains "/aktuelles/" %}
+  {% for item in site.data.submenus %}
+    <a href="{{ site.baseurl }}/team/{{ item.subsection.id }}.html">
+      <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+    </a>
+  {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/team">
   <div class="navbutton {{ color_team }} navbutton-left">Team</div>
 </a>
+
+{% if page.url contains "/team/" %}
+  {% for person in site.data.team %}
+    <a href="{{ site.baseurl }}/team/{{ person.filename }}.html">
+      <div class="navbutton {{ color_submenu }} navbutton-left"> {{ person.fullname }}</div>
+    </a>
+  {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/research">
   <div class="navbutton {{ color_research }} navbutton-left">Forschung</div>
 </a>
@@ -61,4 +92,8 @@
 <a href="https://protech.mb.uni-siegen.de/smaps" target="_blank">
   <div class="navbutton {{ color_smaps }} navbutton-left">Smaps</div>
 </a>
+
+
+
+
 

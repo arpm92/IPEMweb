@@ -13,6 +13,16 @@ layout: default
     <div class="w3-container">
       <h1>{{ page.fullname }}</h1>
     </div>
+    {% if page.team %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Team:
+        </div>
+        <div class="w3-col s9">
+          {{ page.team }}
+        </div>
+      </div>
+    {% endif %}
     {% if page.tel %}
       <div class="w3-container w3-row">
         <div class="w3-col s3">
@@ -88,6 +98,32 @@ layout: default
         </div>
       {% endfor %}
     {% endif %}
+
+    <br>
+
+    <div class="w3-container w3-row">
+      {% if page.xing %}      
+        <div class="w3-col s1">
+          <a href="{{ page.xing }}"><img src="/images/xing.png" alt="xing" width="30" height="30"></a>
+        </div>      
+      {% endif %}
+      {% if page.linkedin %}
+          <div class="w3-col s1">
+            <a href="{{ page.linkedin }}"><img src="/images/lk.png" alt="linkedin" width="30" height="30"></a>
+          </div>
+      {% endif %}
+      {% if page.orcid %}
+          <div class="w3-col s1">
+            <a href="{{ page.orcid }}"><img src="/images/orcid.jpg" alt="orcid" width="30" height="30"></a>
+          </div>
+      {% endif %}
+      {% if page.gschoolar %}
+          <div class="w3-col s1">
+            <a href="{{ page.gchoolar }}"><img src="/images/gschoolar.jpg" alt="orcid" width="30" height="30"></a>
+          </div>
+      {% endif %}
+    </div>
+    
     
     {% if page.publication %}
       <div class="w3-container w3-row">
