@@ -1,29 +1,35 @@
-- section: aktuelles
-  subsection:
-    - Stellenangebote
-      id: stellenangebote
+- title: aktuelles
+  subsection: Stellenangebote
+  url: /career
 
-- section: research
-  subsection:
-    - Aktuelle Forschung
-      id: aktuelle_forschung
-    - Veröffentlichungen
-      id: vereoffentlichungen
-    - Technik / Geräte
-      id: technik_gereate
+- title: research
+  subsection: Aktuelle Forschung
+  url: 
 
-- section: industrie
-  subsection:
-    - Best Practice Zirkel
-      id: best_practice_zirkel
-    - Beratung
-      id: beratung
+- title: research
+  subsection: Veröffentlichungen
+  url: 
 
-- section: lectures
-  subsection:
-    - Studentische Arbeiten
-      id: studentische_arbeiten
-    - Vorlesungen auf English
-      id: vorlesungen_auf_englisch
-    - Neuer IPEM-Master
-      id: neuer_ipem-master
+- title: research
+  subsection: Technik / Geräte
+  url: 
+
+- title: industrie
+  subsection: Best Practice Zirkel
+  url: 
+
+- title: industrie
+  subsection: Beratung
+  url: 
+
+- title: lectures
+  subsection: Studentische Arbeiten
+  url: 
+
+- title: lectures
+  subsection: Vorlesungen auf English
+  url: 
+
+- title: lectures
+  subsection: Neuer IPEM-Master
+  url: 

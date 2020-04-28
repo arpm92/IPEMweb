@@ -53,16 +53,29 @@
 <a href="{{ site.baseurl }}/about">
   <div class="navbutton {{ color_about }} navbutton-left">Lehrstuhl</div>
 </a>
+
+{% if page.url contains "/about/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "about" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/aktuelles">
   <div class="navbutton {{ color_aktuelles }} navbutton-left">Aktuelles</div>
 </a>
 
-{% if page.url contains "/aktuelles/" %}
-  {% for item in site.data.submenus %}
-    <a href="{{ site.baseurl }}/team/{{ item.subsection.id }}.html">
-      <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
-    </a>
-  {% endfor %}
+{% if page.url contains "/aktuelles/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "aktuelles" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
 {% endif %}
 
 <a href="{{ site.baseurl }}/team">
@@ -71,24 +84,70 @@
 
 {% if page.url contains "/team/" %}
   {% for person in site.data.team %}
-    <a href="{{ site.baseurl }}/team/{{ person.filename }}.html">
-      <div class="navbutton {{ color_submenu }} navbutton-left"> {{ person.fullname }}</div>
-    </a>
+    {% if person.active == true %}
+      <a href="{{ site.baseurl }}/team/{{ person.filename }}.html">
+        <div class="navbutton {{ color_submenu }} navbutton-left"> {{ person.fullname }}</div>
+      </a>
+      {% endif %}
   {% endfor %}
 {% endif %}
 
 <a href="{{ site.baseurl }}/research">
   <div class="navbutton {{ color_research }} navbutton-left">Forschung</div>
 </a>
+
+{% if page.url contains "/research/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "research" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/lectures">
   <div class="navbutton {{ color_lectures }} navbutton-left">Studium</div>
 </a>
+
+{% if page.url contains "/lectures/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "lectures" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/career">
   <div class="navbutton {{ color_career }} navbutton-left">Karriere</div>
 </a>
+
+{% if page.url contains "/career/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "career" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
 <a href="{{ site.baseurl }}/contact">
   <div class="navbutton {{ color_contact }} navbutton-left">Kontakt</div>
 </a>
+
+{% if page.url contains "/contact/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "contact" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
 <a href="https://protech.mb.uni-siegen.de/smaps" target="_blank">
   <div class="navbutton {{ color_smaps }} navbutton-left">Smaps</div>
 </a>
