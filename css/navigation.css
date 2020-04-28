@@ -85,6 +85,16 @@
     color: rgb(221, 221, 221);
 }
 
+.navbutton-lpurple {
+    background-color: #f6d5e9;;
+    color: black; /* Light purple */
+}
+
+.navbutton-lpurple:hover {
+    background-color: #611543; /* Violet */
+    color: white;;
+}
+
 .navbutton-white {
     background-color: white;
     color: black;
