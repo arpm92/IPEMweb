@@ -84,7 +84,7 @@
 
 {% if page.url contains "/team/" %}
   {% for person in site.data.team %}
-    {% if person.active == true %}
+    {% if person.active == true and person.status != "student" %}
       <a href="{{ site.baseurl }}/team/{{ person.filename }}.html">
         <div class="navbutton {{ color_submenu }} navbutton-left"> {{ person.fullname }}</div>
       </a>
