@@ -6,7 +6,7 @@ layout: default
 # International Production Engineering and Management
 
 <br>
-Willkommen am Lehrstuhl für International Production Engineering and Management 
+## Willkommen am Lehrstuhl für International Production Engineering and Management 
 
 <br>
 <br>
