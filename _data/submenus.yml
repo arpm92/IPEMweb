@@ -1,35 +1,35 @@
 - title: aktuelles
   subsection: Stellenangebote
-  url: /career
+  url: /career/index
 
 - title: research
   subsection: Aktuelle Forschung
-  url: 
+  url: /research/research
 
 - title: research
   subsection: Veröffentlichungen
-  url: 
+  url: /research/publications
 
 - title: research
   subsection: Technik / Geräte
-  url: 
+  url: /research/technik
 
 - title: industrie
   subsection: Best Practice Zirkel
-  url: 
+  url: /research/best_practice
 
 - title: industrie
   subsection: Beratung
-  url: 
+  url: /industrie/beratung
 
 - title: lectures
   subsection: Studentische Arbeiten
-  url: 
+  url: /lectures/studentische_arbeiten
 
 - title: lectures
   subsection: Vorlesungen auf English
-  url: 
+  url: /lectures/lectures_eng
 
 - title: lectures
   subsection: Neuer IPEM-Master
-  url: 
+  url: /lectures/ipem_master
