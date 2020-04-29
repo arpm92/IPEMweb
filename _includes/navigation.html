@@ -8,6 +8,7 @@
 {% assign color_career = "navbutton-white" %}
 {% assign color_contact = "navbutton-white" %}
 {% assign color_smaps = "navbutton-white" %}
+{% assign color_protech = "navbutton-white" %}
 
 {% assign color_submenu = "navbutton-lpurple" %}
 {% assign color_aktuelles = "navbutton-white" %}
@@ -40,6 +41,9 @@
 {% endif %}
 {% if page.url contains "/smaps/" %}
   {% assign color_smaps = "navbutton-violet" %}
+{% endif %}
+{% if page.url contains "/protech/" %}
+  {% assign color_protech = "navbutton-violet" %}
 {% endif %}
 {% if page.url == "/aktuelles/" %}
   {% assign color_chair = "navbutton-violet" %}
@@ -152,7 +156,9 @@
   <div class="navbutton {{ color_smaps }} navbutton-left">Smaps</div>
 </a>
 
-
+<a href="https://protech.mb.uni-siegen.de/" target="_blank">
+  <div class="navbutton {{ color_protech }} navbutton-left">PROTECH - Institut für Produktionstechnik</div>
+</a>
 
 
 
