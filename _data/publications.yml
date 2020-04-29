@@ -1,12 +1,20 @@
-- fullname: 'Frohn-Sörensen, P., Mašek, B., Wagner, M. F. X., Rubešová, K., Khalaj, O., Engel, B. (2020). Flexible manufacturing chain with integrated incremental bending and QP heat treatment for on-demand production of AHSS safety parts. Journal of Materials Processing Technology, 275, 116312. doi 10.1016/j.jmatprotec.2019.116312.'
-  autors:
-    - frohn
-    - bengel
-
- 
 - fullname: 'Here comes the name and description of publications'
+  year:
   autors:
     - perez
+
+- fullname: 'Weisser, T., Saßmannshausen, T., Ohrndorf, D., Burggräf, P., Wagener, J.'
+  title: 'A clustering approach for topic filtering within systematic literature reviews'
+  in: 'MethodX, Vol 7'
+  DOI: 10.1016/j.mex.2020.100831
+  year: 2020
+  link: 
+  autors:
+    - weisser
+    - sassmannshausen
+    - ohrndorf
+    - burggraef
+    - wagener
 
 
 
