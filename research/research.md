@@ -18,7 +18,7 @@ Unter der Leitung von Prof. Dr.-Ing. Peter Burggräf arbeitet die Universität S
 # Adaptives Remanufacturing zur Lebenszyklusoptimierung vernetzter Investitionsgüter (ReLIFE)
 
 
-![ReLIFE logo](/research/images/relife.jpg){:class="img-responsive"}
+![ReLIFE logo](/research/images/relife.png){:height="30%" width="30%"}
 
 Das Forschungsprojekt ReLIFE zielt auf eine Erhöhung der Ressourceneffizienz durch die Verlängerung des Lebenszyklus von Investitionsgütern ab. Dazu wird der Ansatz des Adaptiven Remanufacturing entwickelt. Dieser beschreibt eine adaptive Instandhaltungsstrategie, die basierend auf Sensorik-Auswertungen unter technischen, ökonomischen sowie ökologischen Gesichtspunkten den optimalen Zeitpunkt und Umfang von Instandhaltungsmaßnahmen bestimmt. Der innovative Charakter des Adaptiven Remanufacturing liegt in der zeitlichen sowie inhaltlichen Adaptivität des Verfahrens. Basierend auf dem sensorisch überwachten Verschleißzustand von Komponenten werden präventive, auf die jeweilige Situation abgestimmte Remanufacturing-Maßnahmen vorgeschlagen. Die dadurch sichergestellte Leistungsfähigkeit der Investitionsgüter bildet die Grundlage für innovative Geschäftsmodelle zur Gewährleistung langfristiger Produktivität.
 
@@ -26,12 +26,16 @@ Die Bearbeitung des Forschungsprojektes erfolgt in sieben Arbeitspaketen. Ausgeh
 
 Gefördert durch: Bundesministerium für Bildung und Forschung; ReziProK, Projektträger Jülich 
 
-Weitere Informationen finden Sie auf der Projekt-Homepage [ReLife] (http://relife.wzl.rwth-aachen.de/de/default.html)
+Weitere Informationen finden Sie auf der Projekt-Homepage [ReLife](http://relife.wzl.rwth-aachen.de/de/default.html)
+
+<br>
+<br>
 
 # Multivariable Automatisierungsentscheidungen für die volumen- und produktflexible Fließmontage (MAproFli)
 
-![DFG icon MAproFli icon](/research/images/maprofli.jpg){:class="img-responsive"}
+![DFG icon](/research/images/DFG.jpg){:class="img-responsive"}
+![MAproFli icon](/research/images/maprofli.jpg){:class="img-responsive"}
 
 Traditionell findet eine Bestimmung des optimalen Automatisierungsgrades anhand von monetären Vergleichsrechnungen statt. Eine rein monetäre Bewertung ist jedoch ausreichend: Einflussgrößen wie Produktgestaltung, Zuverlässigkeit, Verfügbarkeit, Qualitätsverbesserungen, und insb. Flexibilität haben ihrerseits weitreichende Auswirkungen auf den Erfolg von Automatisierungsentscheidungen. Ziel des Forschungsprojektes MAproFli ist daher die Entwicklung einer Entscheidungsmethodik für den optimalen Automatisierungsgrad in der volumen- und produktflexiblen Fließmontage auf Basis multivariabler Kriterien. Dabei soll zunächst die Entscheidungsfähigkeit durch eine kontextrelevante Auswahl der Entscheidungsfaktoren verbessert und das notwendige Maß an Wandlungsfähigkeit abgebildet werden. Basierend hierauf kann eine Auswahl und Bewertung an Automatisierungsalternativen vorgenommen werden. Eine Verbesserung der Entscheidungsqualität für Automatisierungsalternativen soll durch die Übertragung von Erkenntnissen aus der Arbeitswissenschaft, der Entscheidungstheorie und bewährten Methoden der Wirtschaftlichkeitsrechnung erreicht werden. Schließlich soll der Entscheidungsaufwand durch die Entwicklung einer auf der Entscheidungsmethodik basierenden Softwarelösung reduziert werden. Der Untersuchungsbereich konzentriert sich dabei auf die Fließmontage von Mittel- bis Großserien.
 
-Zur Validierung und Gewichtung bisher ermittelter Entscheidungsfaktoren führt der Lehrstuhl IPEM in Zusammenarbeit mit dem Werkzeugmaschinenlabor (WZL) der RWTH Aachen derzeit eine Online-Studie durch, die sich vornehmlich an Experten aus Werks- und Montageplanung richtet. Interessenten sind herzlich eingeladen, sich mit [Benjamin Koke] (% {{site.baseurl}} /team/koke.html) in Verbindung zu setzen. 
+Zur Validierung und Gewichtung bisher ermittelter Entscheidungsfaktoren führt der Lehrstuhl IPEM in Zusammenarbeit mit dem Werkzeugmaschinenlabor (WZL) der RWTH Aachen derzeit eine Online-Studie durch, die sich vornehmlich an Experten aus Werks- und Montageplanung richtet. Interessenten sind herzlich eingeladen, sich mit [Benjamin Koke]({{site.baseurl}} /team/koke.html) in Verbindung zu setzen. 
