@@ -8,7 +8,6 @@ layout: default
 | {{ item.fullname }} : **{{ item.title }}** ({{ item.year }}) in: {{ item.in }}. {{ item.DOI}} |{% endif %}{% endfor %}
 {:width=50}
 
-<!-- 
 
 # 2019
 
@@ -58,4 +57,3 @@ layout: default
 | [{{ item.fullname }}] |{% endif %}{% endfor %}
 {:width=50}
 
--->
