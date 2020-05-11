@@ -287,98 +287,98 @@
   status: student
   active: false
   
-  filename: bamberg
+-filename: bamberg
   fullname: Milan Bamberg
   email: milan.bamberg@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: keles
+-filename: keles
   fullname: Tamer Keles
   email: tamer.keles@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: scheffel
+-filename: scheffel
   fullname: Tim Scheffel
   email: tim.scheffel@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: wigger
+-filename: wigger
   fullname: Marius Wigger
   email: marius.wigger@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: eravci
+-filename: eravci
   fullname: Sertan Eravci
   email: sertan.eravci@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: junge
+-filename: junge
   fullname: Thorben Junge
   email: thorben.junge@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: biyikli
+-filename: biyikli
   fullname: Engin Biyikli
   email: engin.biyikli@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: schmallenbach
+-filename: schmallenbach
   fullname: Lennart Schmallenbach
   email: lennart.schmallenbach@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: pritzl
+-filename: pritzl
   fullname: Niklas Pritzl
   email: niklas.pritzl@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: oberweger
+-filename: oberweger
   fullname: Fabian Oberweger
   email: fabian.oberweger@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: intlekofer
+-filename: intlekofer
   fullname: Sebastian Intlekofer
   email: sebastian.intlekofer@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: ahle
+-filename: ahle
   fullname: Julia Ahle
   email: julia.ahle@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: morasch
+-filename: morasch
   fullname: Victoria Morasch
   email: victoria.morasch@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-  filename: hust
+-filename: hust
   fullname: Franziska Hust
   email: franziska.hust@uni-siegen.de
   image: /team/images/nan.jpg
