@@ -14,6 +14,10 @@
   image: /team/images/burggraef.jpg
   hours: nur nach Vereinbarung
   publication: true
+  xing: not found
+  linkedin: https://www.linkedin.com/in/peter-burggr%C3%A4f-9978b382/
+  orcid: http://orcid.org/0000-0001-9018-9959
+  gschoolar: https://scholar.google.de/citations?user=KOA6QE0AAAAJ&hl=de
   active: true
 
 - filename: wagner
@@ -32,6 +36,10 @@
   image: /team/images/wagner.jpg
   hours: nur nach Vereinbarung
   publication: true
+  xing: not found
+  linkedin: not found
+  orcid: https://orcid.org/0000-0002-3226-2457
+  gschoolar: https://scholar.google.de/citations?hl=de&user=tVIvODEAAAAJ
   active: true
 
 - filename: klass
@@ -48,16 +56,16 @@
            Breite Straße 11<br>
            57076 Siegen
   image: /team/images/nan.jpg
-  hours: Mo. - Do. 07:30 bis 12:00 Uhr
+  hours: Mo. - Do. 08:00 bis 12:00 Uhr
   active: true
 
 - filename: kringe
   fullname: Edith Kringe
   status: secretary
-  tel: +49 271 740 - 
-  fax: +49 271 740 -  
-  email: 
-  office: 
+  tel: +49 271 740 - 2630
+  fax: +49 271 740 - 12628
+  email: edith.kringe@uni-siegen.de
+  office: PB-A 307
   address: Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
@@ -65,16 +73,16 @@
            Breite Straße 11<br>
            57076 Siegen
   image: /team/images/nan.jpg
-  hours: Mo. - Do. 07:30 bis 12:00 Uhr
+  hours: Mo. - Do. 08:00 bis 12:00 Uhr
   active: true
 
 - filename: koke
   fullname: Benjamin Koke, M.Sc. M.Sc. 
   status: gruppenleiter
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: 
-  office: 
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: benjamin.koke@uni-siegen.de
+  office: PB-A 243
   address: Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
@@ -84,15 +92,19 @@
   image: /team/images/koke.jpg
   hours: nur nach Vereinbarung
   publication: true
+  xing: https://www.xing.com/profile/Benjamin_Koke
+  linkedin: https://www.linkedin.com/in/benjamin-t-koke/
+  orcid: https://orcid.org/0000-0002-2552-2855
+  gschoolar: https://scholar.google.de/citations?user=6yRO1E4AAAAJ&hl=de
   active: true
 
 - filename: sassmannshausen
   fullname: Till Saßmannshausen, M.Sc. M.Sc.
   status: gruppenleiter
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: 
-  office: 
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: till.sassmannshausen@uni-siegen.de
+  office: PB-A 243
   address: Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
@@ -102,6 +114,10 @@
   image: /team/images/sassmannshausen.jpg
   hours: nur nach Vereinbarung
   publication: true
+  xing: https://www.xing.com/profile/Till_Sassmannshausen
+  linkedin: https://www.linkedin.com/in/till-sa%C3%9Fmannshausen-3a201615a/
+  orcid: https://orcid.org/0000-0002-1061-8686
+  gschoolar: https://scholar.google.de/citations?hl=de&user=A2wDfW4AAAAJ
   active: true
 
 - filename: perez
@@ -124,119 +140,119 @@
 - filename: bischoff
   fullname: Oliver Bischoff, M.Sc. 
   status: staff
-  team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  team: Gruppe Produktionsmanagement
+  tel: +49 271 740 - 2656
+  fax: +49 271 740 - 12628
+  email: oliver.bischoff@uni-siegen.de
   image: /team/images/bischoff.jpg
-  office: PB-A 
+  office: PB-A 303
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: https://www.xing.com/profile/Oliver_Bischoff18
+  linkedin: not found
+  orcid: not found
+  gschoolar: https://scholar.google.de/citations?user=dk4ZNL4AAAAJ&hl=de
   active: true
 
 - filename: steinberg
   fullname: Fabian Steinberg, M.Sc. 
   status: staff
-  team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  team: Gruppe Fabrikplanung für den Mittelstand
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: fabian.steinberg@uni-siegen.de
   image: /team/images/steinberg.jpg
-  office: PB-A 
+  office: PB-A 303
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: not found
+  linkedin: https://www.linkedin.com/in/fabian-steinberg-117559a7/
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: sauer
   fullname: Carl René Sauer, M.Sc. 
   status: staff
-  team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  team: Gruppe Produktionsmanagement
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: rene.sauer@uni-siegen.de
   image: /team/images/nan.jpg
-  office: PB-A 
+  office: PB-A 304
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: https://www.xing.com/profile/Rene_Sauer14
+  linkedin: https://www.linkedin.com/in/ren%C3%A9-sauer-1a503b156/
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: balada
   fullname: Eva Balada Rosa 
   status: sprachdozenten
   team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  tel: +49 271 740 - 2202
+  fax: +49 271 740 - 12628
+  email: balada-rosa@sisib.uni-siegen.de
   image: /team/images/nan.jpg
-  office: PB-A 
+  office: PB-A 329
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: not found
+  linkedin: not found
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: mirault
   fullname: Dr. Hugues Mirault
   status: sprachdozenten
   team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: sekretariat.ipem@uni-siegen.de
   image: /team/images/nan.jpg
-  office: PB-A 
+  office: PB-A 307 (Sekretariat)
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: not found
+  linkedin: not found
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: weisser
   fullname: Tim Weisser, M.Sc.
   status: extphd
   team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: tim.weisser@uni-siegen.de
   image: /team/images/nan.jpg
-  office: PB-A 
+  office: 
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: not found
+  linkedin: not found
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: thuemmler
   fullname: Marco Thümmler, M.Sc.
   status: extphd
   team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: m.thuemmler@streetscooter-research.eu
   image: /team/images/nan.jpg
-  office: PB-A 
+  office:
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
+  xing: not found
+  linkedin: not found
+  orcid: not found
   gschoolar: bla
   active: true
 
@@ -244,33 +260,130 @@
   fullname: Andreas Ehlert, M.Sc.
   status: extphd
   team: 
-  tel: +49 271 740 - 
-  fax: +49 271 740 - 
-  email: .@uni-siegen.de
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: a.ehlert@streetscooter-research.eu
   image: /team/images/nan.jpg
-  office: PB-A 
+  office: 
   hours: nur nach Vereinbarung
   publication: true
-  xing: 
-  linkedin: 
-  orcid: 
-  gschoolar: bla
+  xing: not found
+  linkedin: not found
+  orcid: not found
+  gschoolar: not found
   active: true
 
 - filename: hoefer
   fullname: Elias Höfer
-  email: elias.hoefer@student.uni-siegen.de
+  email: elias.hoefer@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: true
 
-- filename: _____
-  fullname: _____
-  email: ____@student.uni-siegen.de
+- filename: thayalan
+  fullname: Gadshan Thayalan
+  email: gadshan.thayalan@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
   active: false
   
+  filename: bamberg
+  fullname: Milan Bamberg
+  email: milan.bamberg@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: keles
+  fullname: Tamer Keles
+  email: tamer.keles@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: scheffel
+  fullname: Tim Scheffel
+  email: tim.scheffel@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: wigger
+  fullname: Marius Wigger
+  email: marius.wigger@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: eravci
+  fullname: Sertan Eravci
+  email: sertan.eravci@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: junge
+  fullname: Thorben Junge
+  email: thorben.junge@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: biyikli
+  fullname: Engin Biyikli
+  email: engin.biyikli@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: schmallenbach
+  fullname: Lennart Schmallenbach
+  email: lennart.schmallenbach@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: pritzl
+  fullname: Niklas Pritzl
+  email: niklas.pritzl@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: oberweger
+  fullname: Fabian Oberweger
+  email: fabian.oberweger@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: intlekofer
+  fullname: Sebastian Intlekofer
+  email: sebastian.intlekofer@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: ahle
+  fullname: Julia Ahle
+  email: julia.ahle@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: morasch
+  fullname: Victoria Morasch
+  email: victoria.morasch@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
+
+  filename: hust
+  fullname: Franziska Hust
+  email: franziska.hust@uni-siegen.de
+  image: /team/images/nan.jpg
+  status: student
+  active: true
 
 - filename: ____
   fullname: ____
