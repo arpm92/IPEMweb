@@ -1,0 +1,7 @@
+- fullname: 'Augmented Reality Brille: Microsoft HoloLens'
+  image: /research/images/hololens.jpg
+  height: '200px'
+  width: '300px'
+  description: 
+  - 'Microsoft HoloLens ist eine Mixed-Reality-Brille, die dem Benutzer erlaubt, mit der Unterstützung durch ein Natural User Interface interaktive 3D-Projektionen in der direkten Umgebung darzustellen. Die HoloLens kann auch ohne Smartphone oder zusätzlichem Computer verwendet werden.'
+  status: true
