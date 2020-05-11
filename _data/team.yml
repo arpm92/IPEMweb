@@ -285,7 +285,7 @@
   email: gadshan.thayalan@uni-siegen.de
   image: /team/images/nan.jpg
   status: student
-  active: false
+  active: true
   
 - filename: bamberg
   fullname: Milan Bamberg
