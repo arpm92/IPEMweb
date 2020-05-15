@@ -2,33 +2,61 @@
 layout: default
 ---
 
-# Studiengangauswahl
+# Studium
 
-Bitte wählen Sie Ihren Studiengang aus.
+---
 
- * [Fahrzeugbau]({{ site.baseurl }}/lectures/FZB.html)
- * [International Product Engineering and Management]({{ site.baseurl }}/lectures/IPEM.html)
- * [Maschinenbau]({{ site.baseurl }}/lectures/MB.html)
- * [Maschinenbau (dual)]({{ site.baseurl }}/lectures/MBD.html)
- * [Materialwissenschaften und Werkstofftechnik]({{ site.baseurl }}/lectures/MWWT.html)
- * [Wirtschaftsingenieurwesen]({{ site.baseurl }}/lectures/WIW.html)
+Project Management: Die Veranstaltungen Project Management I, Project Management III, Projektmanagement V sowie Projektmanagement Grundlagen I werden in diesem Wintersemester wieder als Blockveranstaltung stattfinden. Die Termine und Räume sind in Unisono zu finden. Die Belegphase ist ab sofort geöffnet und schließt am 4. Januar 2020.
 
-# Studentische Arbeiten
+# Prüfungen
 
-Am Lehrstuhl für Umformtechnik werden durchgehend Bachelor- und Masterarbeiten angeboten.
+- Generelle Informationen zu Prüfungen des [Departments Maschinenbau](http://www.mb.uni-siegen.de/pruefungsamt/?lang=de).
 
-Aktuelle Themenstellungen können dem
-**Moodle-Kurs** [„Studentische Arbeiten am Lehrstuhl für Umformtechnik“](https://moodle.uni-siegen.de/course/view.php?id=1708){:target="_blank"}
-oder den Aushängen im Schaukasten entnommen werden.
+- Generelle Informationen zur Prüfungsanmeldung: [Neue Richtlinien zur An-/Abmeldung von Prüfungen](https://www.ipem.mb.uni-siegen.de/lehre/pdf/2010-12-02-muendliche-pruefungen.pdf)
 
-Je nach Aufgabenstellung ergeben sich z.B. folgende Arbeitsaufgaben (auch in Kombination miteinander):
- * Konstruktion von (Werkzeugen/Prüfständen/Maschinen)
- * experimentelle Bestimmung von Prozessparametern
- * Simulation von Umformprozessen
- * Entwicklung analytische Betrachtungen zu Umformprozessen
- * systematische Analyse und Einteilungen von Fertigungsprozessen
- 
-<br>
-{:class="w3-row"}
-<br>
 
+# Unisono
+[Was ist Unisono? - Erklärungsvideo der Universität Siegen](https://www.youtube.com/watch?v=Ugi3XyTmBOs&feature=youtu.be)
+
+[What is Unisono? - Explanation video from the University of Siegen](https://www.youtube.com/watch?v=zDIJMgpVkeE&feature=youtu.be)
+
+
+# Veranstaltungen im Sommersemester 2019
+
+## Projectmanagement
+
+<ul>
+    {% for item in site.data.lectures %}
+        {% if item.active == true and item.area == 'pm' %}
+            <li>
+                <a href="{{ item.url }}">{{ item.fullname }}</a> 
+            </li>
+        {% endif %}        
+    {% endfor %}
+</ul>
+
+## Sprachen
+
+### Französisch
+
+<ul>
+    {% for item in site.data.lectures %}
+        {% if item.active == true and item.area == 'french' %}
+            <li>
+                <a href="{{ item.url }}">{{ item.fullname }}</a> 
+            </li>
+        {% endif %}        
+    {% endfor %}
+</ul>
+
+### Spanisch
+
+<ul>
+    {% for item in site.data.lectures %}
+        {% if item.active == true and item.area == 'spanish' %}
+            <li>
+                <a href="{{ item.url }}">{{ item.fullname }}</a> 
+            </li>
+        {% endif %}        
+    {% endfor %}
+</ul>

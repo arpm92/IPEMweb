@@ -2,20 +2,28 @@
 layout: default
 ---
 
+# Aktuelle Forschung
+
+---
+
 # Forschungsprojekte
 
 Hier finden Sie die aktuellen Projekte des IPEM-Lehrstuhls:
 
 ## Projekt ManuBrain
 
+![ManuBrain logo](/research/images/manubrain.png){:height="30%" width="30%"}
+
 Digitalisierung und Künstliche Intelligenz stellen eine Herausforderung für Unternehmen dar, die von existentieller Bedeutung sein kann. Obwohl Unternehmen den Stellenwert dieser Entwicklungen erkannt haben, scheitert die konkrete Umsetzung in der Geschäftspraxis jedoch häufig noch. Zu hoch scheinen die technologischen und monetären Aufwände oder es fehlt schlicht an der nötigen fachlichen Expertise.
 
 An diesen Problemen setzt das Forschungsprojekt „ManuBrain“ an, in dessen Zuge insbesondere kleine und mittlere Unternehmen in die Lage versetzt werden sollen, neue Technologien mit geringem Aufwand in bestehende Arbeitsprozesse zu integrieren. Ziel des Projekts ist die Entwicklung einer KI-Plattform für unterschiedliche Anwendungsfälle im Maschinen- und Anlagenbau. Zentraler Bestandteil dieser Plattform soll ein Baukasten mit Algorithmen sein, die Maschinendaten speichert und auswertet und auf dieser Basis Optimierungsmöglichkeiten aufzeigt.
 
-Unter der Leitung von Prof. Dr.-Ing. Peter Burggräf arbeitet die Universität Siegen mit dem Fraunhofer Institut für Algorithmen und Wissenschaftliches Rechnen und den Unternehmen Albrecht Bäumer, SMS Group, Recogizer und Zenit an dem Forschungsprojekt. Seitens der Universität Siegen übernimmt unser Wissenschaftlicher Mitarbeiter Fabian Steinberg die operative Projektleitung.  
+Unter der Leitung von Prof. Dr.-Ing. Peter Burggräf arbeitet die Universität Siegen mit dem Fraunhofer Institut für Algorithmen und Wissenschaftliches Rechnen und den Unternehmen Albrecht Bäumer, SMS Group, Recogizer und Zenit an dem Forschungsprojekt. Seitens der Universität Siegen übernimmt unser Wissenschaftlicher Mitarbeiter Fabian Steinberg die operative Projektleitung.
+
+Weitere Informationen finden Sie auf der Projekt-Homepage [ManuBrain](http://manubrain.de/)
 
 
-# Adaptives Remanufacturing zur Lebenszyklusoptimierung vernetzter Investitionsgüter (ReLIFE)
+## Adaptives Remanufacturing zur Lebenszyklusoptimierung vernetzter Investitionsgüter (ReLIFE)
 
 
 ![ReLIFE logo](/research/images/relife.png){:height="30%" width="30%"}
@@ -31,7 +39,7 @@ Weitere Informationen finden Sie auf der Projekt-Homepage [ReLife](http://relife
 <br>
 <br>
 
-# Multivariable Automatisierungsentscheidungen für die volumen- und produktflexible Fließmontage (MAproFli)
+## Multivariable Automatisierungsentscheidungen für die volumen- und produktflexible Fließmontage (MAproFli)
 
 ![DFG icon](/research/images/DFG.jpg){:class="img-responsive"}
 ![MAproFli icon](/research/images/maprofli.jpg){:class="img-responsive"}

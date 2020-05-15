@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Kontakt  | IPEM
+---
+
+# Kontakt
+
 ---
 
 # Lehrstuhl für Lehrstuhl für International Production Engineering and Management (IPEM)
