@@ -133,19 +133,23 @@ layout: default
             ORCID: <a href="{{ page.ORCIDlink }}" target="_blank">{{ page.ORCIDlink }}</a>
           </div>
           <p>
-         {% endif %}
+        {% endif %}
 
-	  {% for publication in site.data.publications %}
+    {% for publication in site.data.publications %}
+      <ul>
             {% for autor in publication.autors %}
               {% if autor == page.filename %}
 		<div class="w3-row s9">
-                  {{ publication.fullname }}
+                
+                  <li>{{ publication.fullname }} : <strong>{{ publication.title }}</strong> ({{ publication.year }}) in: {{ publication.in }}. {{ publication.DOI}}</li>
+                                
                 </div>
                 <p>
               {% endif %}
            {% endfor %}
+      </ul>
          {% endfor %}
-        </div>
+      </div>
     {% endif %}
   </div>
 </div>
