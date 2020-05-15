@@ -12,6 +12,7 @@
 
 {% assign color_submenu = "navbutton-lpurple" %}
 {% assign color_aktuelles = "navbutton-white" %}
+{% assign color_industrie = "navbutton-white" %}
 
 
 
@@ -45,9 +46,13 @@
 {% if page.url contains "/protech/" %}
   {% assign color_protech = "navbutton-violet" %}
 {% endif %}
-{% if page.url == "/aktuelles/" %}
-  {% assign color_chair = "navbutton-violet" %}
+{% if page.url contains "/aktuelles/" %}
+  {% assign color_aktuelles= "navbutton-violet" %}
 {% endif %}
+{% if page.url contains "/industrie/" %}
+  {% assign color_industrie= "navbutton-violet" %}
+{% endif %}
+
 
 
 
@@ -75,6 +80,20 @@
 {% if page.url contains "/aktuelles/"%}
     {% for item in site.data.submenus %}
       {% if item.title == "aktuelles" %}
+        <a href="{{ site.baseurl }}{{ item.url }}.html">
+          <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
+        </a>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+
+<a href="{{ site.baseurl }}/industrie">
+  <div class="navbutton {{ color_industrie }} navbutton-left">Industrie</div>
+</a>
+
+{% if page.url contains "/industrie/"%}
+    {% for item in site.data.submenus %}
+      {% if item.title == "industrie" %}
         <a href="{{ site.baseurl }}{{ item.url }}.html">
           <div class="navbutton {{ color_submenu }} navbutton-left"> {{ item.subsection }}</div>
         </a>
