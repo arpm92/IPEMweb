@@ -1,0 +1,10 @@
+
+- fullname: 'Job name'
+  type: 'wimi'
+  file: 'name of file including the extension (pdf)'
+  active: false
+
+- fullname: 'Job Name'
+  type: 'shk'
+  file: 'name of file including the extension (pdf)'
+  active: false

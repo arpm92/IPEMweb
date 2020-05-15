@@ -1,7 +1,47 @@
 - fullname: 'Augmented Reality Brille: Microsoft HoloLens'
   image: /research/images/hololens.jpg
-  height: '200px'
+  height: '220px'
   width: '300px'
   description: 
   - 'Microsoft HoloLens ist eine Mixed-Reality-Brille, die dem Benutzer erlaubt, mit der Unterstützung durch ein Natural User Interface interaktive 3D-Projektionen in der direkten Umgebung darzustellen. Die HoloLens kann auch ohne Smartphone oder zusätzlichem Computer verwendet werden.'
+  status: true
+
+- fullname: 'Virtuell Reality Brille: HP Mixed Reality Headset mit Controllern'
+  image: /research/images/hp-mixed_reality.jpg
+  height: '220px'
+  width: '300px'
+  description: 
+  - 'Das HP Mixed Reality Headset mit Controllern bietet eine sehr gute visuelle Qualität und herausragenden Komfort und ermöglicht unglaubliches immersives Computing. Des Weiteren ermöglicht das HP Mixed Reality Headset mit Controllern das Bewegen im Raum mit sechs Freiheitsgraden und ohne Tracking-Grenzen.'
+  status: true
+
+- fullname: 'Demozelle'
+  image: /research/images/demozelle.jpg
+  height: '220px'
+  width: '300px'
+  description: 
+  - 'Unsere Demozelle zeigt anhand eines beispielhaften Produktionsprozesses die Möglichkeiten und Vorteile einer neuartigen und vollständig vernetzten Datenverarbeitung. Bestehend aus einem Roboterarm, Förderbändern und einer Kameraeinheit, stellt die Demozelle eine beispielhafte Montagestation mit einem typischen Produktfluss dar. Zahlreiche Sensoren nehmen die Prozessdaten der mechanischen Komponenten auf und übertragen sie in Cloud. Durch die Möglichkeit, Prozessparameter zu variieren und Fehlfunktionen zu simulieren, entsteht eine reale Anlage zur repräsentativen Darstellung modernster, vollautomatischer Produktionslinien. Durch die mögliche Variation von Prozessparametern und Simulation von Fehlfunktionen kann eine moderne, vollautomatische Produktionslinie dargestellt werden.'
+  status: true
+
+- fullname: '3D Drucker: Flashforge Creator Pro'
+  image: /research/images/3d-drucker.jpg
+  height: '220px'
+  width: '300px'
+  description: 
+  - 'Der Creator Pro von Flashforge ist ein empfehlenswerter 3D-Drucker für anspruchsvolle Einsteiger, Anwernder mit ersten Erfahrungen im Bereich der Low-Budget-3D-Drucker und kleine bis mittelgroße Unternehmen, die ein zuverlässigen 3D-Drucker für das Rapid Prototyping benötigen. Als Druckmaterial wird hierbei ABS und PLA verwendet.'
+  status: true
+
+- fullname: 'Bosch XDK-Sensor'
+  image: /research/images/xdk-sensor.jpg
+  height: '220px'
+  width: '300px'
+  description: 
+  - 'Das XDK110 Cross-Domain Development Kit von Bosch ermöglicht ein schnelles Prototyping von sensorbasierten Produkten und Applikationen für "das Internet der Dinge". Dieses drahtlose Sensor-Kit spart Zeit und Kosten für IoT-Applikationen und bietet die Programmierfreiheit auf einem Anfänger- oder fortgeschrittenen Niveau.'
+  status: true
+
+- fullname: 'Robotorarm'
+  image: /research/images/ur3.jpg
+  height: '220px'
+  width: '170px'
+  description: 
+  - 'Der Industrieroboterarm UR3 von Universal Robots dient zur Einführung in die Welt der Robotertechnik. Mit seiner maximalen Tragkraft von 3 kg erweist er sich als die perfekte Ergänzung zu unserer Demozelle. Der Arm wird von einer Steuereinheit aus bedient und verfügt über eine drehbare Basis, einen beweglichen Ellenbogen, ein bewegliches Handgelenk und einen funktionalen Greifer. Der Roboter ist derzeit in unsere Demozelle integriert, wir sind jedoch in der Lage, ihn bei Bedarf mit Hilfe von UR-Software oder ROS-Integration umzuprogrammieren.'
   status: true

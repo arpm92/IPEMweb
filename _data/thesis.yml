@@ -1,0 +1,59 @@
+- fullname: 'BA/ MA: Produktanalyse für die Produktion eines Quantencomputers'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'SA/ BA/ MA: Analyse von Einsatzszenarien für KI in der Industrie'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'SA/ BA/ MA: KI-Brauerei in der Smarten Demonstrationsfabrik Siegen'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ MA: Kollaboration von Mensch und Künstlicher Intelligenz im Produktionsmanagement'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'SA/ BA/ MA: Smarte Entscheidungen im Produktionsmanagement'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ SA: Studie zum Einsatz von Distributed-Ledger-Technologien im Produktionsmanagement'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ MA: Entwicklung eines Modells für Adaptives Remanufacturing'
+  file: 'BA_MA_Entwicklung eines Modells zur Adaptiven Remanufacturing.pdf'
+  type: 'thesis'
+  active: true
+
+- fullname: 'BA/ MA: Konzeption und Implementierung der IT-Landschaft der Smarten Demonstrationsfabrik Siegen'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ MA: Konzeption eines Campus-Systems für die Zusammenarbeit von Wissenschaft und Industrie'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'SA/ BA/ MA: Prädiktion von Verspätungen des Montagestarts am Beispiel eines Maschinen- und Anlagenbauers'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ MA: User Interface für einen Reinforcement Algorithmus zum Job Shop Scheduling'
+  file: ''
+  type: 'thesis'
+  active: false
+
+- fullname: 'BA/ MA: User Interface für einen Reinforcement Algorithmus zum Job Shop Scheduling'
+  file: ''
+  type: 'pep'
+  active: false

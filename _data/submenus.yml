@@ -14,14 +14,6 @@
   subsection: Technik / Geräte
   url: /research/technik
 
-- title: industrie
-  subsection: Best Practice Zirkel
-  url: /research/best_practice
-
-- title: industrie
-  subsection: Beratung
-  url: /industrie/beratung
-
 - title: lectures
   subsection: Studentische Arbeiten
   url: /lectures/studentische_arbeiten
@@ -33,3 +25,11 @@
 - title: lectures
   subsection: Neuer IPEM-Master
   url: /lectures/ipem_master
+
+- title: industrie
+  subsection: Beratung
+  url: /industrie/beratung
+
+- title: industrie
+  subsection: Best Practice Zirkel
+  url: /industrie/best_practice
