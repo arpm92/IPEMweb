@@ -1,7 +1,3 @@
-- title: aktuelles
-  subsection: Stellenangebote
-  url: /career/index
-
 - title: research
   subsection: Aktuelle Forschung
   url: /research/research
@@ -33,3 +29,11 @@
 - title: industrie
   subsection: Best Practice Zirkel
   url: /industrie/best_practice
+
+# - title: home
+#   subsection: Lehrstuhl
+#   url: /about/index
+
+# - title: home
+#   subsection: Aktuelles
+#   url: /aktuelles/index
