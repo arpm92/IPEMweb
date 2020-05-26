@@ -44,22 +44,6 @@ title: Karriere  | IPEM
 - Bewerbungen für studentische Arbeiten sollen ein Motivationsschreiben, den Lebenslauf und relevante Zeugnisse enthalten. Ohne diese Dokumente kann eine Bewerbung nicht berücksichtigt werden.
 
 
-### Studien- / Bachelor- / Masterarbeiten (SA/ BA/ MA)
-
-<!-- 
-- Aktuell sind keine Abschlussarbeit vakant
--->
-
-<ul>
-    {% for item in site.data.thesis %}
-        {% if item.active == true and item.type == 'thesis' %}
-            <li>
-                <a href="{{ site.baseurl }}/career/download/{{ item.file }}">{{ item.fullname }}</a>
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
-
 ### PEP-Projekte
 
 - Aktuell sind keine PEP-Projekte vakant

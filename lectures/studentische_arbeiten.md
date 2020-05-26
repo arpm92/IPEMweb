@@ -22,3 +22,22 @@ Informationen zu Ablauf und Anforderungen der Abschluss- und Studienarbeiten fin
  
 
 Vom IPEM-Institut betreute Individual Projects für IPEM-Master Studenten werden individuell, nach Rücksprache mit den Mitgliedern der Arbeitsgruppe vergeben.
+
+---
+
+
+# Studien- / Bachelor- / Masterarbeiten (SA/ BA/ MA)
+
+<!-- 
+- Aktuell sind keine Abschlussarbeit vakant
+-->
+
+<ul>
+    {% for item in site.data.thesis %}
+        {% if item.active == true and item.type == 'thesis' %}
+            <li>
+                <a href="{{ site.baseurl }}/career/download/{{ item.file }}">{{ item.fullname }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
