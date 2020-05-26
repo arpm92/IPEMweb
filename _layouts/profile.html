@@ -141,7 +141,7 @@ layout: default
         <div class="w3-row s9">
 
           <li>{{ publication.fullname }} : <strong>{{ publication.title }}</strong> ({{ publication.year }}) in:
-            {{ publication.in }}. {{ publication.DOI}}</li>
+            {{ publication.in }}. {{ publication.DOI}} {% if publication.doc %}<a href="{{ site.baseurl }}/download/{{ publication.doc }}">Download</a>{% endif %} {% if publication.link %}<a href="{{ publication.link }}">Original</a>{% endif %}</li>
 
         </div>
         <p>
