@@ -1,20 +1,40 @@
-- fullname: 'Here comes the name and description of publications'
-  year:
+- fullname: 'Burggräf, P., Pérez Martínez, A.R, Wagner, J., Roth, H.'
+  title: 'Quadrotors in factory applications: design and implementation of the quadrotor´s P-PID cascade control system'
+  in: 'SN Applied Sciences, SpringerLink'
+  DOI: '10.1007/s42452-019-0698-7'
+  year: 2019
+  link: 'https://link.springer.com/article/10.1007/s42452-019-0698-7'
+  doc: 'Quadrotors in factory applications design and implementation.pdf'
   autors:
     - perez
+    - burggraef
+    - wagner
+
+- fullname: 'Burggräf, P., Wagner, J., Pérez, A'
+  title: 'Virtual Engineering Applied to the Factory Planning Process'
+  in: 'Researchgate, Factory Planning: Use of new technologies'
+  DOI: '10.13140/RG.2.2.32069.09449'
+  year: 2019
+  link: 'https://www.researchgate.net/publication/333632393_Virtual_Engineering_Applied_to_the_Factory_Planning_Process'
+  #doc: 
+  autors:
+    - perez
+    - burggraef
+    - wagner
 
 - fullname: 'Weisser, T., Saßmannshausen, T., Ohrndorf, D., Burggräf, P., Wagener, J.'
   title: 'A clustering approach for topic filtering within systematic literature reviews'
   in: 'MethodX, Vol 7'
-  DOI: 10.1016/j.mex.2020.100831
+  DOI: '10.1016/j.mex.2020.100831'
   year: 2020
-  link: 
+  #link:
+  doc: 'A clustering approach for topic filtering within systematic literature reviews.pdf'
   autors:
     - weisser
     - sassmannshausen
     - ohrndorf
     - burggraef
-    - wagener
+    - wagner
 
 
 
