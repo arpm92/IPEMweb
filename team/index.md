@@ -16,7 +16,7 @@ layout: default
 ## Oberingenieur
 
 | :--- | :--- |{% for person in site.data.team %}{% if person.status == "oberingenieur" and person.active == true %}
-| ![img]({{site.baseurl}}{{ person.image }}){:width="70"} | [{{ person.fullname }}]({{ person.filename }}.html)<br><br> {{ person.tel }}<br>[{{ person.email }}](mailto:{{ person.email }}) |{% endif %}{% endfor %}
+| ![img]({{site.baseurl}}{{ person.image }}){:width="70"} | [{{ person.fullname }}]({{site.baseurl}/team/{{ person.filename }}.html)<br><br> {{ person.tel }}<br>[{{ person.email }}](mailto:{{ person.email }}) |{% endif %}{% endfor %}
 {:width=50}
 
 <br>

@@ -18,6 +18,7 @@
   linkedin: https://www.linkedin.com/in/peter-burggr%C3%A4f-9978b382/
   orcid: http://orcid.org/0000-0001-9018-9959
   gschoolar: https://scholar.google.de/citations?user=KOA6QE0AAAAJ&hl=de
+  resume: 
   active: true
 
 - filename: wagner
@@ -40,6 +41,7 @@
   linkedin: not found
   orcid: https://orcid.org/0000-0002-3226-2457
   gschoolar: https://scholar.google.de/citations?hl=de&user=tVIvODEAAAAJ
+  resume: '200521_CV-Wagner_deutsch_für Website IPEM.pdf'
   active: true
 
 - filename: klass

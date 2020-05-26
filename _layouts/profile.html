@@ -98,6 +98,16 @@ layout: default
         </div>
       {% endfor %}
     {% endif %}
+    {% if page.resume %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          Resume:
+        </div>
+        <div class="w3-col s9">
+          {{ page.resume }}
+        </div>
+      </div>
+    {% endif %}
 
     <br>
 
@@ -123,6 +133,16 @@ layout: default
           </div>
       {% endif %}
     </div>
+
+    {% if page.resume %}
+      <div class="w3-container w3-row">
+        <h2>Curriculum Vitae {{ page.fullname }}:</h2>
+        {% if page.resume %}
+          <div class="w3-row s9">
+            ORCID: <a href="{{ site.baseurl }}/team/download/{{ page.resume }}" target="_blank">{{ page.ORCIDlink }}</a>
+          </div>
+          <p>
+        {% endif %}
     
     
     {% if page.publication %}
