@@ -12,7 +12,7 @@ Hier finden Sie die aktuellen Projekte des IPEM-Lehrstuhls:
 
 ## Projekt ManuBrain
 
-![ManuBrain logo](/research/images/manubrain.png){:height="30%" width="30%"}
+![ManuBrain logo]({{site.baseurl}}/research/images/manubrain.png){:height="30%" width="30%"}
 
 Digitalisierung und Künstliche Intelligenz stellen eine Herausforderung für Unternehmen dar, die von existentieller Bedeutung sein kann. Obwohl Unternehmen den Stellenwert dieser Entwicklungen erkannt haben, scheitert die konkrete Umsetzung in der Geschäftspraxis jedoch häufig noch. Zu hoch scheinen die technologischen und monetären Aufwände oder es fehlt schlicht an der nötigen fachlichen Expertise.
 
@@ -26,7 +26,7 @@ Weitere Informationen finden Sie auf der Projekt-Homepage [ManuBrain](http://man
 ## Adaptives Remanufacturing zur Lebenszyklusoptimierung vernetzter Investitionsgüter (ReLIFE)
 
 
-![ReLIFE logo](/research/images/relife.png){:height="30%" width="30%"}
+![ReLIFE logo]({{site.baseurl}}/research/images/relife.png){:height="30%" width="30%"}
 
 Das Forschungsprojekt ReLIFE zielt auf eine Erhöhung der Ressourceneffizienz durch die Verlängerung des Lebenszyklus von Investitionsgütern ab. Dazu wird der Ansatz des Adaptiven Remanufacturing entwickelt. Dieser beschreibt eine adaptive Instandhaltungsstrategie, die basierend auf Sensorik-Auswertungen unter technischen, ökonomischen sowie ökologischen Gesichtspunkten den optimalen Zeitpunkt und Umfang von Instandhaltungsmaßnahmen bestimmt. Der innovative Charakter des Adaptiven Remanufacturing liegt in der zeitlichen sowie inhaltlichen Adaptivität des Verfahrens. Basierend auf dem sensorisch überwachten Verschleißzustand von Komponenten werden präventive, auf die jeweilige Situation abgestimmte Remanufacturing-Maßnahmen vorgeschlagen. Die dadurch sichergestellte Leistungsfähigkeit der Investitionsgüter bildet die Grundlage für innovative Geschäftsmodelle zur Gewährleistung langfristiger Produktivität.
 
@@ -41,8 +41,8 @@ Weitere Informationen finden Sie auf der Projekt-Homepage [ReLife](http://relife
 
 ## Multivariable Automatisierungsentscheidungen für die volumen- und produktflexible Fließmontage (MAproFli)
 
-![DFG icon](/research/images/DFG.jpg){:class="img-responsive"}
-![MAproFli icon](/research/images/maprofli.jpg){:class="img-responsive"}
+![DFG icon]({{site.baseurl}}/research/images/DFG.jpg){:class="img-responsive"}
+![MAproFli icon]({{site.baseurl}}/research/images/maprofli.jpg){:class="img-responsive"}
 
 Traditionell findet eine Bestimmung des optimalen Automatisierungsgrades anhand von monetären Vergleichsrechnungen statt. Eine rein monetäre Bewertung ist jedoch ausreichend: Einflussgrößen wie Produktgestaltung, Zuverlässigkeit, Verfügbarkeit, Qualitätsverbesserungen, und insb. Flexibilität haben ihrerseits weitreichende Auswirkungen auf den Erfolg von Automatisierungsentscheidungen. Ziel des Forschungsprojektes MAproFli ist daher die Entwicklung einer Entscheidungsmethodik für den optimalen Automatisierungsgrad in der volumen- und produktflexiblen Fließmontage auf Basis multivariabler Kriterien. Dabei soll zunächst die Entscheidungsfähigkeit durch eine kontextrelevante Auswahl der Entscheidungsfaktoren verbessert und das notwendige Maß an Wandlungsfähigkeit abgebildet werden. Basierend hierauf kann eine Auswahl und Bewertung an Automatisierungsalternativen vorgenommen werden. Eine Verbesserung der Entscheidungsqualität für Automatisierungsalternativen soll durch die Übertragung von Erkenntnissen aus der Arbeitswissenschaft, der Entscheidungstheorie und bewährten Methoden der Wirtschaftlichkeitsrechnung erreicht werden. Schließlich soll der Entscheidungsaufwand durch die Entwicklung einer auf der Entscheidungsmethodik basierenden Softwarelösung reduziert werden. Der Untersuchungsbereich konzentriert sich dabei auf die Fließmontage von Mittel- bis Großserien.
 
