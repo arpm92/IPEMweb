@@ -1,24 +1,24 @@
 - filename: burggraef
-  fullname: Univ.-Prof. Dr.-Ing. Peter Burggräf, MBA
+  fullname: 'Univ.-Prof. Dr.-Ing. Peter Burggräf, MBA'
   status: faculty
   tel: +49 271 740 - 2629
   fax: +49 271 740 - 12628
   email: peter.burggraef@uni-siegen.de
   office: PB-A 308 
-  address: Universität Siegen<br>
+  address: 'Universität Siegen<br>
            Fakultät IV<br>
            Department Maschinenbau<br>
            Lehrstuhl für International Production Engineering and Management<br>
            Paul-Bonatz-Str. 9-11<br>
-           57076 Siegen
+           57076 Siegen'
   image: /team/images/burggraef.jpg
-  hours: nur nach Vereinbarung
+  hours: 'nur nach Vereinbarung'
   publication: true
-  xing: not found
+  xing: 'not found'
   linkedin: https://www.linkedin.com/in/peter-burggr%C3%A4f-9978b382/
   orcid: http://orcid.org/0000-0001-9018-9959
   gschoolar: https://scholar.google.de/citations?user=KOA6QE0AAAAJ&hl=de
-  resume: 
+  #resume: ''
   active: true
 
 - filename: wagner
@@ -98,6 +98,7 @@
   linkedin: https://www.linkedin.com/in/benjamin-t-koke/
   orcid: https://orcid.org/0000-0002-2552-2855
   gschoolar: https://scholar.google.de/citations?user=6yRO1E4AAAAJ&hl=de
+  #resume: ''
   active: true
 
 - filename: sassmannshausen
@@ -120,6 +121,7 @@
   linkedin: https://www.linkedin.com/in/till-sa%C3%9Fmannshausen-3a201615a/
   orcid: https://orcid.org/0000-0002-1061-8686
   gschoolar: https://scholar.google.de/citations?hl=de&user=A2wDfW4AAAAJ
+  #resume: ''
   active: true
 
 - filename: perez
@@ -136,7 +138,8 @@
   xing: https://www.xing.com/profile/Alejandro_Perez83/cv
   linkedin: https://www.linkedin.com/in/alejandro-perez-19920930/
   orcid: https://orcid.org/0000-0002-9911-8468
-  gschoolar: bla
+  #gschoolar: bla
+  #resume: ''
   active: true
 
 - filename: bischoff
@@ -151,9 +154,10 @@
   hours: nur nach Vereinbarung
   publication: true
   xing: https://www.xing.com/profile/Oliver_Bischoff18
-  linkedin: not found
-  orcid: not found
+  #linkedin: not found
+  #orcid: not found
   gschoolar: https://scholar.google.de/citations?user=dk4ZNL4AAAAJ&hl=de
+  resume: ''
   active: true
 
 - filename: steinberg
@@ -167,10 +171,11 @@
   office: PB-A 303
   hours: nur nach Vereinbarung
   publication: true
-  xing: not found
+  #xing: not found
   linkedin: https://www.linkedin.com/in/fabian-steinberg-117559a7/
-  orcid: not found
-  gschoolar: not found
+  #orcid: not found
+  #gschoolar: not found
+  #resume: ''
   active: true
 
 - filename: sauer
@@ -186,8 +191,9 @@
   publication: true
   xing: https://www.xing.com/profile/Rene_Sauer14
   linkedin: https://www.linkedin.com/in/ren%C3%A9-sauer-1a503b156/
-  orcid: not found
-  gschoolar: not found
+  #orcid: not found
+  #gschoolar: not found
+  #resume: ''
   active: true
 
 - filename: balada
@@ -202,9 +208,9 @@
   hours: nur nach Vereinbarung
   publication: true
   xing: not found
-  linkedin: not found
-  orcid: not found
-  gschoolar: not found
+  #linkedin: not found
+  #orcid: not found
+  #gschoolar: not found
   active: true
 
 - filename: mirault
@@ -218,10 +224,10 @@
   office: PB-A 307 (Sekretariat)
   hours: nur nach Vereinbarung
   publication: true
-  xing: not found
-  linkedin: not found
-  orcid: not found
-  gschoolar: not found
+  #xing: not found
+  #linkedin: not found
+  #orcid: not found
+  #gschoolar: not found
   active: true
 
 - filename: weisser
@@ -235,10 +241,10 @@
   office: 
   hours: nur nach Vereinbarung
   publication: true
-  xing: not found
-  linkedin: not found
-  orcid: not found
-  gschoolar: not found
+  #xing: not found
+  #linkedin: not found
+  #orcid: not found
+  #gschoolar: not found
   active: true
 
 - filename: thuemmler
@@ -252,10 +258,10 @@
   office:
   hours: nur nach Vereinbarung
   publication: true
-  xing: not found
-  linkedin: not found
-  orcid: not found
-  gschoolar: bla
+  #xing: not found
+  #linkedin: not found
+  #orcid: not found
+  #gschoolar: bla
   active: true
 
 - filename: ehlert
@@ -269,10 +275,10 @@
   office: 
   hours: nur nach Vereinbarung
   publication: true
-  xing: not found
-  linkedin: not found
-  orcid: not found
-  gschoolar: not found
+  #xing: not found
+  #linkedin: not found
+  #orcid: not found
+  #gschoolar: not found
   active: true
 
 - filename: hoefer

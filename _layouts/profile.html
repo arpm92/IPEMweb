@@ -6,7 +6,7 @@ layout: default
 <div class="w3-row w3-margin-top">
   <div class="w3-quarter">
     {% if page.image %}
-      <img src={{ site.baseurl }}{{ page.image }} alt={{ page.image }} style="width:100%;">
+    <img src={{ site.baseurl }}{{ page.image }} alt={{ page.image }} style="width:100%;">
     {% endif %}
   </div>
   <div class="w3-threequarter">
@@ -14,162 +14,142 @@ layout: default
       <h1>{{ page.fullname }}</h1>
     </div>
     {% if page.team %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Team:
-        </div>
-        <div class="w3-col s9">
-          {{ page.team }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        Team:
       </div>
+      <div class="w3-col s9">
+        {{ page.team }}
+      </div>
+    </div>
     {% endif %}
     {% if page.tel %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Telefon:
-        </div>
-        <div class="w3-col s9">
-          {{ page.tel }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        Telefon:
       </div>
+      <div class="w3-col s9">
+        {{ page.tel }}
+      </div>
+    </div>
     {% endif %}
     {% if page.fax %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Fax:
-        </div>
-        <div class="w3-col s9">
-          {{ page.fax }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        Fax:
       </div>
+      <div class="w3-col s9">
+        {{ page.fax }}
+      </div>
+    </div>
     {% endif %}
     {% if page.email %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          E-Mail:
-        </div>
-        <div class="w3-col s9">
-          <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        E-Mail:
       </div>
+      <div class="w3-col s9">
+        <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+      </div>
+    </div>
     {% endif %}
     {% if page.office %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          B&uuml;ro:
-        </div>
-        <div class="w3-col s9">
-          {{ page.office }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        B&uuml;ro:
       </div>
+      <div class="w3-col s9">
+        {{ page.office }}
+      </div>
+    </div>
     {% endif %}
     {% if page.address %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Anschrift:
-        </div>
-        <div class="w3-col s9">
-          {{ page.address }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        Anschrift:
       </div>
+      <div class="w3-col s9">
+        {{ page.address }}
+      </div>
+    </div>
     {% endif %}
     {% if page.hours %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Sprechzeiten:
-        </div>
-        <div class="w3-col s9">
-          {{ page.hours }}
-        </div>
+    <div class="w3-container w3-row">
+      <div class="w3-col s3">
+        Sprechzeiten:
       </div>
-    {% endif %}
-    {% if page.career %}
-      <div class="w3-container w3-row">
-        <h2>Werdegang</h2>
+      <div class="w3-col s9">
+        {{ page.hours }}
       </div>
-      {% for job in page.career %}
-        <div class="w3-container w3-row">
-          <div class="w3-col s3">
-            {{ job[0] }}
-          </div>
-          <div class="w3-col s9">
-            {{ job[1] }}
-          </div>
-        </div>
-      {% endfor %}
-    {% endif %}
-    {% if page.resume %}
-      <div class="w3-container w3-row">
-        <div class="w3-col s3">
-          Resume:
-        </div>
-        <div class="w3-col s9">
-          {{ page.resume }}
-        </div>
-      </div>
+    </div>
     {% endif %}
 
     <br>
+    
+    {% if page.resume %}
+      <div class="w3-container w3-row">
+        <div class="w3-col s3">
+          <a href="{{ site.baseurl }}/team/download/{{ page.resume }}">Curriculum Vitae</a>
+        </div>
+      </div>
+      {% endif %}
+    
+    
+    <br>
 
     <div class="w3-container w3-row">
-      {% if page.xing %}      
-        <div class="w3-col s1">
-          <a href="{{ page.xing }}"><img src="{{ site.baseurl }}/images/xing.png" alt="xing" width="30" height="30"></a>
-        </div>      
+      {% if page.xing %}
+      <div class="w3-col s1">
+        <a href="{{ page.xing }}"><img src="{{ site.baseurl }}/images/xing.png" alt="xing" width="30" height="30"></a>
+      </div>
       {% endif %}
       {% if page.linkedin %}
-          <div class="w3-col s1">
-            <a href="{{ page.linkedin }}"><img src="{{ site.baseurl }}/images/lk.png" alt="linkedin" width="30" height="30"></a>
-          </div>
+      <div class="w3-col s1">
+        <a href="{{ page.linkedin }}"><img src="{{ site.baseurl }}/images/lk.png" alt="linkedin" width="30"
+            height="30"></a>
+      </div>
       {% endif %}
       {% if page.orcid %}
-          <div class="w3-col s1">
-            <a href="{{ page.orcid }}"><img src="{{ site.baseurl }}/images/orcid.jpg" alt="orcid" width="30" height="30"></a>
-          </div>
+      <div class="w3-col s1">
+        <a href="{{ page.orcid }}"><img src="{{ site.baseurl }}/images/orcid.jpg" alt="orcid" width="30"
+            height="30"></a>
+      </div>
       {% endif %}
       {% if page.gschoolar %}
-          <div class="w3-col s1">
-            <a href="{{ page.gchoolar }}"><img src="{{ site.baseurl }}/images/gschoolar.jpg" alt="orcid" width="30" height="30"></a>
-          </div>
+      <div class="w3-col s1">
+        <a href="{{ page.gchoolar }}"><img src="{{ site.baseurl }}/images/gschoolar.jpg" alt="orcid" width="30"
+            height="30"></a>
+      </div>
       {% endif %}
     </div>
 
-    {% if page.resume %}
-      <div class="w3-container w3-row">
-        <h2>Curriculum Vitae {{ page.fullname }}:</h2>
-        {% if page.resume %}
-          <div class="w3-row s9">
-            ORCID: <a href="{{ site.baseurl }}/team/download/{{ page.resume }}" target="_blank">{{ page.ORCIDlink }}</a>
-          </div>
-          <p>
-        {% endif %}
-    
     
     {% if page.publication %}
-      <div class="w3-container w3-row">
-        <h2>Publikationen</h2>
-        {% if page.ORCIDlink %}
-          <div class="w3-row s9">
-            ORCID: <a href="{{ page.ORCIDlink }}" target="_blank">{{ page.ORCIDlink }}</a>
-          </div>
-          <p>
+    <div class="w3-container w3-row">
+      <h2>Publikationen</h2>
+      {% if page.ORCIDlink %}
+      <div class="w3-row s9">
+        ORCID: <a href="{{ page.ORCIDlink }}" target="_blank">{{ page.ORCIDlink }}</a>
+      </div>
+      <p>
         {% endif %}
 
-    {% for publication in site.data.publications %}
+        {% for publication in site.data.publications %}
       <ul>
-            {% for autor in publication.autors %}
-              {% if autor == page.filename %}
-		<div class="w3-row s9">
-                
-                  <li>{{ publication.fullname }} : <strong>{{ publication.title }}</strong> ({{ publication.year }}) in: {{ publication.in }}. {{ publication.DOI}}</li>
-                                
-                </div>
-                <p>
-              {% endif %}
-           {% endfor %}
+        {% for autor in publication.autors %}
+        {% if autor == page.filename %}
+        <div class="w3-row s9">
+
+          <li>{{ publication.fullname }} : <strong>{{ publication.title }}</strong> ({{ publication.year }}) in:
+            {{ publication.in }}. {{ publication.DOI}}</li>
+
+        </div>
+        <p>
+          {% endif %}
+          {% endfor %}
       </ul>
-         {% endfor %}
-      </div>
+      {% endfor %}
+    </div>
     {% endif %}
   </div>
 </div>
