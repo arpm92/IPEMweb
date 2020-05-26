@@ -12,5 +12,5 @@ title: Technik/Geräte  | IPEM
 ---
 
 | :--- | :--- |{% for item in site.data.technik %}{% if item.status == true %}
-| ![img]({{ item.image }}){:class="w2-container w3-card-4 w3-hover-opacity" width="{{ item.width }}" height="{{ item.height }}"} | **{{ item.fullname }}** <br><br> {{ item.description }} |{% endif %}{% endfor %}
+| ![img]({{ site.baseurl }}/{{ item.image }}){:class="w2-container w3-card-4 w3-hover-opacity" width="{{ item.width }}" height="{{ item.height }}"} | **{{ item.fullname }}** <br><br> {{ item.description }} |{% endif %}{% endfor %}
 {:width=50}
