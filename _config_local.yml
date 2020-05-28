@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # theme: minima
 plugins:
   - jekyll-feed
+  - data_page_generator
 
 limit_posts: 5
 
