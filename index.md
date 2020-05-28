@@ -1,5 +1,6 @@
 ---
 layout: default
+size: 40
 ---
 
 
@@ -25,11 +26,12 @@ Leiter des Lehrstuhls: [Univ.-Prof. Dr.-Ing. Peter Burggräf]({{ site.baseurl}}/
 Sie finden uns auch unter:
 <br>
 
-[![LinkedIn]({{ site.baseurl }}/images/lk.png){:class="w3-col s1 m1 l1 w3-margin w3-card-4 w3-hover-opacity"}](https://jm.linkedin.com/company/international-production-engineering-and-management-ipem-der-universit%C3%A4t-siegen?trk=similar-pages_result-card_full-click){:target="_blank"}
+[![LinkedIn]({{ site.baseurl }}/images/lk.png){:height="{{ page.size }}" width="{{ page.size }}" class="w3-hover-opacity"}](https://jm.linkedin.com/company/international-production-engineering-and-management-ipem-der-universit%C3%A4t-siegen?trk=similar-pages_result-card_full-click){:target="_blank"} | [![Facebook]({{ site.baseurl }}/images/fb.png){:height="{{ page.size }}" width="{{ page.size }}" class="w3-hover-opacity"}](https://de-de.facebook.com/unisiegen.ipem/){:target="_blank"} | [![IPEM]({{ site.baseurl }}/images/xing.png){:height="{{ page.size }}" width="{{ page.size }}" class="w3-hover-opacity"}](https://www.xing.com/companies/lehrstuhlf%C3%BCrinternationalproductionengineeringandmanagement){:target="_blank"}
 
-[![Facebook]({{ site.baseurl }}/images/fb.png){:class="w3-col s1 m1 l1 w3-margin w3-card-4 w3-hover-opacity"}](https://de-de.facebook.com/unisiegen.ipem/){:target="_blank"}
+<!-- Below a template for autosize images with: {:class="w3-col s1 m1 l1 w3-card-4 w3-margin w3-hover-opacity"}
 
 [![IPEM]({{ site.baseurl }}/images/xing.png){:class="w3-col s1 m1 l1 w3-card-4 w3-margin w3-hover-opacity"}](https://www.xing.com/companies/lehrstuhlf%C3%BCrinternationalproductionengineeringandmanagement){:target="_blank"}
+-->
 
 <br>
 {:class="w3-row"}
