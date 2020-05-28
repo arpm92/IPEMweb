@@ -10,10 +10,8 @@ title: Best Practice Zirkel Produktion | IPEM
 
 ##### Forum für technische Geschäftsführer und Werksleiter zum Austausch und zur Diskussion
 
-![IPEM]({{ site.baseurl }}/industrie/images/bpz.jpg){:class="w3-col s10 m10 l10 w3-card-4 w3-margin"}{:target="_blank"}
+![IPEM]({{ site.baseurl }}/industrie/images/bpz.jpg){:class="w3-col s3 m2 l2 w3-card-4 w3-margin"}{:target="_blank"}
 
-<br>
-{:class="w3-row"}
 <br>
 
 Mit dem Best Practice Zirkel Produktion hat sich ein Forum für technische Geschäftsführer und Werksleiter zum Austausch und zur Diskussion bzgl. Entwicklungen, Trends und Lösungen für die Gestaltung von Wertschöpfungsketten am Standort Deutschland etabliert. Neben dem inhaltlichen Austausch wurde mit dem Best Practice Zirkel ein Netzwerk von Entscheidungsträgern aufgebaut, das sich mit der Weiterentwicklung von Wertschöpfungsketten beschäftigt.
@@ -23,6 +21,10 @@ Angesprochen sind vor allem führende, international agierende, produzierende Un
 Pro Jahr finden drei Veranstaltungen bei einem der Partner statt. Dabei verfolgt jede Veranstaltung einen spezifischen thematischen Fokus. Dieser wird mit Impulsvorträgen, bestehend aus Fallbeispielen der Partner sowie  Studien und Benchmarkinguntersuchungen des IPEM-Lehrstuhls und des Werkzeugmaschinenlabors (WZL) der RWTH Aachen vertieft.
 
 Anders als bei einem Seminar findet sich im Best Practice Zirkel Produktion ein geschlossener Kreis führender Unternehmen zum intensiven inhaltlichen Austausch zusammen.
+
+<br>
+{:class="w3-row"}
+<br>
 
 ---
 
