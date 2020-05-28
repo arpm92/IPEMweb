@@ -36,40 +36,916 @@
     - burggraef
     - wagner
 
+- fullname: 'Burggräf, P., Wagner, J., Dannapfel, M., Müller, K., Koke, B.' 
+  title: 'Multivariable Automatisierungsentscheidungen - Tool zur Aufwand- und Nutzenbewertung als Entscheidungsgrundlage' 
+  in: 'wt-online, Ausgabe 3, 2019 , S. 134-139'
+  #DOI:
+  year: 2019
+  link: 'https://www.werkstattstechnik.de/wt/article.php?data[article_id]=91360'
+  #doc:
+  autors:
+    - burggraef
+    - wagner
+    - koke
+
+- fullname: 'Burggräf, P., Dannapfel, M., Uelpenich, J., Kasalo, M.' 
+  title: 'Urban factories: Industry insights and empirical evidence within manufacturing companies in German-speaking countries' 
+  in: 'Procedia Manufacturing 2019 (2019), 28, ISSN 2351-9789, S. 83-89'
+  #DOI:
+  year: 2019
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P., Weißer, T., Wagner, J.' 
+  title: 'Data on the current state of Problem Solving and Improvement during Physical Product Development within Complex (Manufacturing) Systems' 
+  in: 'Data in Brief, ScienceDirect, März 2019'
+  #DOI:
+  year: 2019
+  link: 'https://www.sciencedirect.com/science/article/pii/S2352340919302021?via%3Dihub'
+  #doc:
+  autors:
+    - burggraef
+    - weisser
+    - wagner
+
+- fullname: 'Burggräf, P.' 
+  title: 'Kein Wettrennen - Deutschland und China in der Automobilindustrie' 
+  in: 'Forschung & Lehre, Jahrgang 26, Ausgabe 3, 2019, S. 234-236'
+  #DOI:
+  year: 2019
+  #link: 
+  doc: 'https://www.ipem.mb.uni-siegen.de/forschung/ful_3-19_burggraef.pdf'
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P., Dannapfel, M., Förstmann, R., Adlon, T., Fölling, C.' 
+  title: 'Data Quality-Based Process Enabling' 
+  in: 'Application to logistics supply processes in low-volume ramp-up context,in: Proceedings of 2018 the International Conference on Information Management and Processing, ICIMP 2018 : London, January 12-14, 2018, Hrsg.: Yu, H.; Ventura, M., Institute of Electrical and Electronics Engineers; IEEE Piscataway/USA 2018, ISBN 978-1-5386-3654-1, S. 36 - 41'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P.,Ebade-Esfahani, M.,Bertling, M.,Dannapfel, M.' 
+  title: 'Factory-BIM zur integrierten Produktions- und Gebäudeplanung' 
+  in: 'Smart Produktion und digitale Vernetzung; Fachtagung - Vernetzt planen und produzieren VPP2018, Chemnitz, 29.10.2018, Hrsg.: Riedel, R.Wissnschaftliche Schriftenreihe des Instiututes für Betriebswissenschaften und Fabriksysteme 24, Institut für Betriebswissenschaften und Fabriksysteme Chemnitz 2018, ISBN ISSN 0947-2495, S. 155-166'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    -burggraef
+
+- fullname: 'Bejjani, C.,Utsch, J.,Thiele, T.,Meisen, T.,Jeschke, S.,Burggräf, P.' 
+  title: 'Flow Chart Based Information Modeling for Factory Planning' 
+  in: 'Procedia CIRP 2018 (2018), 72, ISSN 2212-8271, S. 410 - 415'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
 
+- fullname: 'Thomas, K.,Prote, J.,Dannapfel, M.,Gützlaff, A.,Burggräf, P.' 
+  title: 'Proactive Complexity Steering for Ramp-up Planning in Assembly' 
+  in: 'Advances in Production Research - Proceedings of the 8th Congress of the German Academic Association for Production Technology (WGP), Aachen, November 19-20, 2018, Hrsg.: Schmitt, R.; Schuh, G., Springer Cham 2018, ISBN 978-3-030-03450-4'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Burggräf, P.,Dannapfel, M.,Bertling, M.,Xu, T.' 
+  title: 'Return on CPS (RoCPS)' 
+  in: 'An Evaluation Model to Assess the Cost Effectiveness of Cyber-Physical Systems for Small and Medium-Sized Enterprises,in: 2018 Portland International Conference on Management of Engineering and Technology PICMET`18 Proceedings, Managing Technological Entrepreneurship: the Engine for Economic; Growth, 19-23 Aug. 2018, Honolulu, HI, USA, Hrsg.: Kocoaglu, D.; Anderson, T.; Kozanoglu, D.; Niwa, K.; Steenhuis, H.; Perman, G., IEEE Xplore Publication Portland 2018, ISBN 978-1-890843-37-3; 2159-5100 ISSN (PoD), S. 1805 - 1813'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Burggräf, P., Wagner, J., Dannapfel, M., Vierschilling, S. P.' 
+  title: 'Simulating the benefit of disruption prevention in assembly' 
+  in: 'Journal of Modelling in Management, Emerald Publishing Limited, August 2018'
+  #DOI:
+  year: 2018
+  link: 'https://www.emerald.com/insight/content/doi/10.1108/JM2-02-2018-0016/full/pdf'
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Bertling, M.,Caroli, H.,Dannapfel, M.,Burggräf, P.' 
+  title: 'The Minimal Viable Production System (MVPS)' 
+  in: 'An Approach for Agile (Automotive) Factory Planning in a Disruptive Environment; in: Advances in Production Research - Proceedings of the 8th Congress of the German Academic Association for Production Technology (WGP), Aachen, November 19-20, 2018, Hrsg.: Schmitt, R.; Schuh, G., Springer Cham/ Swiss 2018, ISBN 978-3-030-03450-4, S. 24-33'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
+  
 
+- fullname: 'Burggräf, P.' 
+  title: 'Arbeitswelten in der Fabrik der Zukunft' 
+  in: 'ein Online-Expertenbeitrag zur Initiative "Arbeitswelten der Zukunft" des Bundesministerium für Bildung und Forschung (2018)'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Burggräf, P., Wagner, J., Koke, B.' 
+  title: 'Artificial intelligence in production management: A review of the current state of affairs and research trends in academia' 
+  in: 'International Conference on Information Management and Processing (ICIMP), 12-14 January 2018, London, United Kingdom, IEEE (2018) pp.82-88'
+  #DOI:
+  year: 2018
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
+    - koke
 
+- fullname: 'Kampker, A., Burggräf, P., Kreisköther, K., Dannapfel, M., Bertram, S., Wagner, J.' 
+  title: 'Flexibility through mobility'
+  in: 'the e-mobile assembly of tomorrow; in:7. WGP-Jahreskongress Aachen, 5.-6. Oktober 2017, Hrsg.: Schmitt, R.: Schuh, G., Apprimus Verlag Aachen 2017, S. 269-294'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Förstmann, R., Wagner, J., Kreisköther, K., Kampker, A., Busch, D.' 
+  title: 'Design for Automation: The Rapid Fixture Approach' 
+  in: '27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy, ScienceDirect, Procedia Manufacturing 11 (2017) pp.633-640'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Burggräf, P.,Dannapfel, M.,Utsch, J.,Uelpenich, J.,Kasalo, M.' 
+  title: 'Integrierte Produktions- und Energiesystemplanung' 
+  in: 'Beziehungsintensitäten zwischen den Planungsaktivitäten der Produktions- und Energiesystemplanung; in: wt Werkstattstechnik online 107 (2017), 4, ISSN 1436-4980, S. 207 - 212'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Wissing, T.,Burggräf, P.,Dannapfel, M.,Förstmann, R.' 
+  title: 'Kooperation in der Produktionssteuerung 4.0' 
+  in: 'Gestaltung der Zusammenarbeit in cyber-physischen Systemen; in: wt Werkstattstechnik online 107 (2017), 9, ISSN 1436-4980 , S. 635-639'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Burggräf, P., Dannapfel, M., Utsch, J., Uelpenich, J., Rojacher, C' 
+  title: 'Energy Demand Planning and Energy Technology Planning in the Condition Based Factory Planning Approach' 
+  in: 'WGP-Jahreskongress, Edition: 1, Publisher: Apprimus Verlag, Aachen, Editors: Robert Schmitt, Günther Schuh, pp.601-608'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Kampker, A., Burggräf, P., Kreisköther, K., Dannapfel, M., Bertram, S., Wagner, J' 
+  title: 'Flexibility through mobility: the e-mobile assembly of tomorrow' 
+  in: 'WGP-Jahreskongress, Edition: 1, Publisher: Apprimus Verlag, Aachen, Editors: Robert Schmitt, Günther Schuh, pp.269-294'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Burggräf, P., Wagner, J., Adlon,T' 
+  title: 'Low-invest production for start-ups through cooperative production structures - The case of an electric vehicle start-up' 
+  in: 'International Journal of Mechanical and Production Engineering, ISSN:2320-2092; Volume-5, Issue-6, Jun.-2017'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Burggräf, P., Dannapfel, M., Uelpenich, J., Matzke, O.' 
+  title: 'Die Fabrik zieht zurück indie Stadt ' 
+  in: 'Industrieanzeiger, August 2017'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Dannapfel, M.,Burggräf, P.,Bertram, S.,Förstmann, R.,Riegauf, A.' 
+  title: 'Systematic planning approach for heavy-duty human-robot cooperation in automotive flow assembly ' 
+  in: 'International Journal of Electrical and Electronic Engineering & Telecommunication 7 (2017), 2 , ISSN 2319-2518, S. 51-57'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Burggräf, P.,Dannapfel, M.,Voet, H.,Bök, P.,Uelpenich, J.,Hoppe, J.:' 
+  title: 'Digital Transformation of Lean Production ' 
+  in: 'Systematic Approach for the Determination of Digitally Pervasive Value Chains,in: International Journal of Social, Behavioral, Educational, Economic, Business and Industrial Engineering 11 (2017), 10, ISSN 1307-6892, S. 2462-2471'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Kampker, A., Kreisköther, K., Wagner, J., Maurer, R., Schier, A. L.' 
+  title: 'Anlauf disruptiver Produkte: Am Beispiel der Produktion elektrischer Antriebsysteme' 
+  in: 'ZWF Zeitschrift für Wirtschaftlichen Fabrikbetrieb 112(1):58-61'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Burggräf, P., Dannapfel, M., Utsch, J., Uelpenich, J., Kasalo, M.' 
+  title: 'Schnittstellenanalyse in der integrierten Fabrikplanung: Schnittstellen zwischen Produktions- und Energiesystemplanung' 
+  in: 'ZWF Zeitschrift für Wirtschaftlichen Fabrikbetrieb 112(5):284-288'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Kampker, A., Bartl, M., Bertram, S., Burggräf, P., Dannapfel, M., Fischer, A., Grams, J., Knau, J., Kreisköther, K., Wagner, J.' 
+  title: 'Agile Low-Cost Montage' 
+  in: 'Internet of Production für agile Unternehmen, Edition: 1, Chapter: 2.3, Publisher: Apprimus Verlag Aachen, Editors: Christian Brecher, Fritz Klocke, Robert Schmitt, Günther Schuh, pp.231-259'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Burggräf, P., Wagner, J., Adlon, T.' 
+  title: 'Low-Invest Production for Start-Ups Through Cooperative Production Structures - The Case of an Electric Vehicle Start-Up' 
+  in: 'Proceedings of The 67th IRES INTERNATIONAL CONFERENCE, The IRES 183rd International Conference on Science, Technology and Management (ICSTM); Institute of Research and Journals, Ottawa, Canada, 27th-28th April 2017, Hrsg.: IRES, T., Institute of Research and Journals Bhubaneswar/Odisha, Indien 2017, S. 1-6'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Wagner, J.,Burggräf, P.,Dannapfel, M.,Fölling, C.' 
+  title: 'Assembly Disruptions' 
+  in: 'Empirical Evidence in the Manufacturing Industry of Germany, Austria and Switzerland, in: International Refereed Journal of Engineering and Science (IRJES) 6 (2017), 3, ISSN 2319-183X (Online) ; 2319-1821 (Print), S. 15-25'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - wagner
+    - burggraef
 
+- fullname: 'Burggräf, P.,Wagner, J.,Lück, K.,Adlon, T.' 
+  title: 'Cost-benefit analysis for disruption prevention in low-volume assembly' 
+  in: 'Production Engineering - Research and Development 11 (2017), Online First, ISSN 0944-6524 (Online), S. 331-342'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Förstmann, R., Wagner, J., Kreisköther, K., Kampker, A., Slavik, V. K.' 
+  title: 'Enabling Industry 4.0 through PLM for Production Equipment Development' 
+  in: 'Conference Paper April 2017; Conference: The 67th IRES International Conference, At Ottawa; Canada'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Kampker, A., Kreisköther, K., Wagner, J., Förstmann, R.' 
+  title: 'Automatisierung der Betriebsmittelgestaltung' 
+  in: 'Automatisierung, Betriebsmanagement, Additive Fertigung, in: wt Werkstattstechnik-online 4-2017, Springer-VDI-Verlag GmbH & Co. KG, Düsseldorf, S. 247-252'
+  #DOI:
+  year: 2017
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Kampker, A.,Kreisköther, K.,Hollah, A.,Wagner, J.,Fluchs, S.' 
+  title: 'Kleinserien- und releasefähige Montagesysteme' 
+  in: 'Der Schlüssel zur wettbewerbsfähigen Elektromobilproduktion,in: ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 111 (2016), 10, ISSN 0947-0085, S. 608-610'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Burggräf, P.,Bäumers, Y.,Adlon, T.,Wagner, J.' 
+  title: 'Kooperative Werksstrukturen nutzen' 
+  in: 'Fabrikplanungsvorgehen zur Invest-Minimierung am Beispiel eines Start-ups im Bereich E-Mobilität,in: ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 111 (2016), 3, ISSN 0947-0085, S. 95-99'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Burggräf, P.,Reuter, C.,Böning, C.,Wagner, J.,Schmitz, T.,Prinzhorn, H.,Ebertz, J.' 
+  title: 'Monetäre Bewertung von Montageplänen' 
+  in: 'Bewertung von Montageplanalternativen anhand der logistischen Zielgrößen im Störungsfall,in: wt Werkstattstechnik online 106 (2016), 4, ISSN 1436-4980, S. 236-242'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Kampker, A.,Burggräf, P.,Bäumers, Y.' 
+  title: 'Determination of the Economic Planning Depth for Assembly Process Planning ' 
+  in: 'International Journal of Social, Behavioral, Educational, Economic, Business and Industrial Engineering 9 (2016), 11, ISSN 1307-6892 ; EISSN: 2010-3778, S. 3660 - 3665'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Prinzhorn, H.,Nyhuis, P.,Wagner, J.,Burggräf, P.,Schmitz, T.,Reuter, C.' 
+  title: 'Optimization Model for Identification of Assembly Alternatives of Large-Scale, Make-to-Order Products ' 
+  in: 'International Journal of Mathematical, Computational, Physical, Electrical and Computer Engineering 10 (2016), 4, ISSN 2010-376X, S. 197-207'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - wagner
+    - burggraef
 
+- fullname: 'Burggräf, P.,Dannapfel, M.,Voet, H.' 
+  title: 'Potentials of Factory Standards in Production Ramp-Ups' 
+  in: 'Procedia CIRP (2016), 51, ISSN 2212-8271 , S. 134-139'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
- 
+- fullname: 'Kreisköther, K.,Burggräf, P.,Wagner, J.,Hollah, A.,Bertram, S.,Hansen, J.' 
+  title: 'Remanufacturing von Elektrofahrzeugen' 
+  in: 'Updatefähige Elektrofahrzeuge für eine wirtschaftliche Elektromobilität,in: ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 111 (2016), 10, ISSN 0947-0085, S. 611-613'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
 
+- fullname: 'Büscher, C.,Voet, H.,Krunke, M.,Burggräf, P.,Meisen, T.,Jeschke, S.' 
+  title: 'Semantic Information Modelling for Factory Planning Projects' 
+  in: 'Procedia CIRP (2016), 41, ISSN 2212-8271, S. 478-483'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Kampker, A.,Kreisköther, K.,Wagner, J.,Hoffmann, A.' 
+  title: 'Toleranzausgleichselemente für eine justagefreie Montage' 
+  in: 'Messen - Ausgleichselement herstellen - Montieren,in: ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 111 (2016), 11, ISSN 0947-0085, S. 736-739'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - wagner
 
+- fullname: 'Moser, F.,Hoffmann, S.,Cokcan, B.,Trautz, M.,Huppertz, R.,Osebold, R.,Osterhage, T.,Ansorge, K.,Müller, D.,Marks, A.,Burggräf, P.' 
+  title: 'Visionen für die Fabrik der Zukunft' 
+  in: 'Studierende entwickeln zukunftsweisende, interdisziplinäre Gebäudekonzepte,in: RWTH Themen 15. (2016), 2, ISSN 0179-079X, S. 66-71'
+  #DOI:
+  year: 2016
+  #link:
+  #doc:
+  autors:
+    - burggraef
 
+- fullname: 'Schuh, G.,Gartzen, T.,Wagner, J.' 
+  title: 'Complexity-oriented ramp-up of assembly systems' 
+  in: 'CIRP Journal of Manufacturing Science and Technology 10 (2015), ISSN 1755-5817 , S. 1-15'
+  #DOI:
+  year: 2015 
+  #link:
+  #doc:
+  autors:
+    - wagner
+
+- fullname: 'Kampker, A.,Wagner, J.,Burggräf, P.,Bäumers, Y.' 
+  title: 'Criticality-focused, pre-emptive disruption management in low-volume assembly' 
+  in: 'Proceedings of Abstract and Papers of 23rd International Conference on Production Research ICPR23, - Operational Excellence towards sustainable development goals (SDG) trough Industry 4.0; August 2-5, 2015 Manila/ Philippines, Hrsg.: Chiu, A.; Matias, A., Central Book Supply, Inc. Manila/ Philippinen 2015, ISBN 2449-4984'
+  #DOI:
+  year: 2015 
+  #link:
+  #doc:
+  autors:
+    - wagner
+    - burggraef
+
+- fullname: 'Burggräf, P.,Krunke, M.,Voet, H.' 
+  title: 'Development of Industry Sector Specific Factory Standards' 
+  in: 'International Journal of Industrial and Manufacturing Engineering 2 (2015), 12, ISSN 1307-6892, S. 799-803'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Rochow, P.,Burggräf, P.,Reuter, C.,Prinzhorn, H.,Wagner, J.,Schmitz, T.' 
+  title: 'Identification of alternative assembly sequences for large-scale products' 
+  in: 'Production and Operations Management Societ- POMS 26th Annual Conference. Washington D.C., USA, May 8- May11., 2015, Hrsg.: Narayanan, S.; Bhageria, R., Michigan State University East Lansing/ USA 2015'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:  
+    - burggraef
+    - wagner
+
+- fullname: 'Kampker, A.,Burggräf, P.,Krunke, M.,Backs, M.,Voet, H.' 
+  title: 'Planungszeit Halbe' 
+  in: 'Ansätze zur Stabilisierung und Beschleunigung der Planung,in: wt Werkstattstechnik online 104 (2015), 4, ISSN 1436-4980, S. 192-196'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P.,Krunke, M.,Backs, M.' 
+  title: 'Quo Vadis Produktion?' 
+  in: 'Serie Produktion in Deutschland am Scheideweg (Teil 1),in: Industrie Anzeiger 137 (2015), 7, ISSN 0019-9036, S. 31-33'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Wagner, J.,Burggräf, P.,Bäumers, Y.,Löher, C.' 
+  title: 'Störungsrelevante Montageprozesse erkennen' 
+  in: 'Eine Bewertungsmethodik für die Kleinserie,in: ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 110 (2015), 12, ISSN 0947-0085, S. 787-790'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - wagner
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Krunke, M.,Voet, H.' 
+  title: 'Deficits and Solutions in the Development of Modular Factory Systems ' 
+  in: 'International Journal of Industrial and Manufacturing Engineering 2 (2015), 11, ISSN 2010-376X, E-ISSN:2010-3778, S. 701-707'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P.,Krunke, M.,Voet, H.' 
+  title: 'Weiter Sprung nach vorn' 
+  in: 'Fabrikbaukästen beschleunigen die Planung,in: Industrie-Anzeiger 137 (2015), 10, ISSN 0019-9036, S. 28-29'
+  #DOI:
+  year: 2015
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Reuter, C.,Burggräf, P.,Schmitz, T.,Böning, C.,Wagner, J.,Prinzhorn, H.' 
+  title: 'Adaptive Montage für XXL-Produkte' 
+  in: 'ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 109 (2014), 10, ISSN 0947-0085, S. 718-721'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+    - wagner
+
+- fullname: 'Kampker, A.,Burggräf, P.,Bäumers, Y.' 
+  title: 'Economic level of detail for assembly planning ' 
+  in: '2014 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2014) 09-12 Dec. 2014 Selangor Darul Ehsan/ Malaysia, Hrsg.: Jasmon, G., IEEE Piscataway/USA 2014, ISBN 978-1-4799-6411-6 , S. 516-520'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Welter, T.,Kamp, S.,Thul, J.' 
+  title: 'Factory Carbon Footprint Design' 
+  in: 'WGP Congress 2012 - Progress in Production Engineering, Hrsg.: , W.Advanced Materials Research 907, Trans Tech Publications Durnten/ Switzerland 2014, ISBN 978-3-03835-053-8 ; ISSN 20122-6680 (Print) ; 1622-8985 (Online), S. 455-462'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Deutskens, C.,Maue, A.,Förstmann, R.' 
+  title: 'Integrated Product and Process Development' 
+  in: 'Modular Production Architectures Based on Process Requirements,in: Procedia CIRP (2014), 20, ISSN 2212-8271, S. 109-114'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.' 
+  title: 'Network-Fit in a Disruptive Environment: Assessment of the Strategic Fit Amo g Partners of a Value-added Network '
+  in: Applied Mechanics and Materials (2014), 548-549, ISSN 1662-7482 , S. 1965-1970
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Krunke, M.,Kreisköther, K.,Voet, H.,Backs, M.' 
+  title: 'Das Aachener Fabrikplanungsvorgehen' 
+  in: 'Agile Fabrikplanung im turbulenten Umfeld,in: wt Werkstattstechnik online 104 (2014), 4, ISSN 1436-4980 , S. 192-196'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Wowreczko, D.,Kampker, A.,Burggräf, P.' 
+  title: 'Methodology for building-up technological core competencies using the electric power train of vehicles as an example ' 
+  in: 'FISITA 2014 World Automotive Congress, Proceedings, 2-6 June, Maastricht, Netherlands, Hrsg.: Schippers, H., FISITA (UK) Limited London/ UK 2014, S. 135-143'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.' 
+  title: 'Strategic fit ' 
+  in: 'Overview of cost, quality and scalability impact on the added value network in electric engine production,in: Advanced Materials Research (2014), 907, ISSN 978-3-03835-053-8 , S. 379-389'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Voet, H.,Burggräf, P.,Krunke, M.,Kreisköther, K.' 
+  title: 'Methodology for the Development of Modular Factory Systems ' 
+  in: 'Proceedings of the 24th International Conference on Flexible Automation & Intelligent Manufacturing, Hrsg.: Chen, F., DEStech Publications, Inc Lancaster, USA 2014, ISBN 978-1-60595-173-7, S. 131-138'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Schuh, G.,Kampker, A.,Burggräf, P.,Krunke, M.,Backs, M.' 
+  title: 'Type-oriented approach for the value-optimized application of heuristics in factory planning' 
+  in: 'Flexible Automation & Intelligent Manufacturing: Proceedings of the 24th International Conference; Capturing Competitive Advantage via Advanced Manufacturing and Enterprise Transformation (FAIM 2014), May 20-23/ San Antonio,Texas/ USA, Hrsg.: Chen, F., DEStech Publications Lancaster/USA 2014, ISBN 978-1-60595-173-7, S. 385-394'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.,Sarovic, N.' 
+  title: 'Wirtschaftliche Industrialisierung automobiler Kleinserien am Beispiel StreetScooter' 
+  in: 'Industrie 4.0: Aachener Perspektiven - Aachener Werkzeugmaschinenkolloquium 2014, Hrsg.: Werkzeugmaschinenkolloquium, A.; Brecher, C.; Klocke, F.; Schmitt, R.; Schuh, G., Shaker Verlag Aachen 2014, ISBN 978-3-8440-2586-6, S. 171-189'
+  #DOI:
+  year: 2014
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Maue, A.,Bäumers, Y.' 
+  title: 'Development of technological competence innovations in disruptive changes using the electric motor as an example ' 
+  in: '3rd International Electric Drives Production Conference EDPC 2013 Proceedings, October 29th- 30th, 2013, Nuremberg, Germany , Hrsg.: Franke, J.; Hahn, I., IEEE Service Center Nürnberg 2013, ISBN 978-1-4799-1102-8, S. 94-97'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Wowreczko, D.' 
+  title: 'Methodology for acquisition of new technologies using the electric power train of vehicles as an example ' 
+  in: '24th Annual POM Conference - Proceedings of the 24th Annual Conference of the Production and Operations Management Society, Integrating Practice in POM Research and Teaching; Denver, Colorado, May 3-6, 2013, Hrsg.: Schoenherr, T., Production & Operations Management Society East Lansing/ USA 2013, ISBN 978-0-615-78489-2, S. 232-237'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Wowreczko, D.' 
+  title: 'Auftragsabwicklungsprozess und Wandlungsfähigkeit ' 
+  in: 'Entwicklung einer Methodik zur gezielten Gestaltung des Auftragsabwicklungsprozesses,in: wt Werkstattstechnik online 103 (2013), 4, ISSN 1436-4980 , S. 291-298'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Nowacki, C.' 
+  title: 'Assessment and Configuration of a Product Production System ' 
+  in: 'Enabling Manufacturing Competitiveness and Economic Sustainability - Proceedings of the 5th International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV 2013), Munich, Germany, October 6th-9th, 2013 , Hrsg.: Zaeh, M., Springer Berlin 2013, ISBN 978-3-319-02053-2 , S. 147-152'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Maue, A.,Bäumers, Y.' 
+  title: 'Auftragsabwicklungsprozess und Wandlungsfähigkeit ' 
+  in: 'Entwicklung einer Methodik zur gezielten Gestaltung des Auftragsabwicklungsprozesses,in: wt Werkstattstechnik online 103 (2013), 4, ISSN 1436-4980 , S. 291-298'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Maue, A.,Bohr, S.:' 
+  title: 'Die getaktete Standplatzmontage ' 
+  in: 'Ein Optimierungsansatz für die Montage komplexer Produkte,in: wt Werkstattstechnik online 103 (2013), 3, ISSN 1436-4980, S. 198-204'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Deutskens, C.,Niebuhr, C.' 
+  title: 'Competitive Strategies for Value Creation During Disruptive Innovations' 
+  in: 'Proceedings of the 2013 Internationall Conference on Competiitiive Manufacturing COMA , 30 January - 1 February 2013 Stellenbosch, South Africa, Hrsg.: Dimitrov, D.; Schutte, C., Stellenbosch University Publishing Stellenbosch/ Südafrika 2013, ISBN 978-0-7972-1405-7, S. 469 - 477'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.' 
+  title: 'Costs, Quality and Scalability' 
+  in: 'Impact on the Value Chain of Electric Engine Production,in: 2nd International Electric Drives Production Conference, EDPC 2012. Proceedings: October 15th - 18th, 2012, Nuremberg, Germany, Hrsg.: Franke, J.Electric Drives Production Conference (EDPC) 15-18 Oct. 2012, 2012. Aufl. , IEEE Service Center Piscataway, NJ/ USA 2013, ISBN 978-1-4673-3007-7 (Print) ; 978-1-4673-3006-0'
+  DOI#:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Schuh, G.,Kampker, A.,Jussen, P.,Meckelnborg, A.,Burggräf, P.' 
+  title: 'Designing a complex service system in the context of factory planning' 
+  in: 'The Philosophers Stone for Sustainability - Proceedings of the 4th CIRP International Conference on Industrial Product-Service Systems, Tokyo, Japan, November 8th - 9th, 2012, Hrsg.: Shimomura, Y.; Kimita, K., Springer Verlag Berlin 2013, ISBN 978-3-642-32846-6, S. 245 - 250'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.,Backs, M.:' 
+  title: 'E-Mobilität: Wege aus dem Teufelskreis ' 
+  in: 'Integrierte Produkt- und Prozessentwicklung und Digitale Fabrikplanung,in: Digital Engineeering Magazin (2013), 5, ISSN 1618-002X, S. 31-33'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Wesch-Potente, C.,Peterson, G.,Krunke, M.:' 
+  title: 'Life cycle oriented evaluation of flexibility in investment decisions for automated assembly systems' 
+  in: 'CIRP Journal of Manufacturing Science and Technology 6 (2013), 4, ISSN 1755-5817 , S. 274-280'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Nowacki, C.:' 
+  title: 'Assessment and Configuration of a Product Production System ' 
+  in: 'Enabling Manufacturing Competitiveness and Economic Sustainability : Proceedings of the 5th International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV 2013), Munich, Germany, October 6th-9th, 2013, Hrsg.: Zaeh, M., Springer Berlin 2013, ISBN 978-3-319-02053-2 Titel anhand dieser ISBN in Citavi-Projekt übernehmen , S. 147-152'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Meckelnborg, A.,Burggräf, P.,Netz, T.' 
+  title: 'Factory Planning Scrum' 
+  in: 'Integrative Factory Planning with Agile Project Management,in: Proceedings of the 2013 Internationall Conference on Competiitiive Manufacturing COMA , 30 January - 1 February 2013 Stellenbosch, South Africa, Hrsg.: Dimitrov, D.; Schutte, C., Stellenbosch University Publishing Stellenbosch/ Südafrika 2013, ISBN 978-0-7972-1405-7, S. 345-350'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Nowacki, C.,Heimes, H.' 
+  title: 'Integrated product and factory design for lithium-ion batteries' 
+  in: 'Future Trends in Production Engineering - Proceedings of the First Conference of the German Academic Society for Production Engineering (WGP), Berlin, Germany, 8th-9th June 2011, Hrsg.: Schuh, G.; Neugebauer, R.; Uhlmann, E., Springer Verlag Berlin 2013, ISBN 978-3-642-24490-2 (Print) 978-3-642-24491-9 (Online) '
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  #autors:
+
+- fullname: 'Schuh, G.,Gartzen, T.,Wagner, J.' 
+  title: 'Komplexitätsgerechte Montagegestaltung in der Kleinserie' 
+  in: '10. Aachener Management Tage - Navigation für Führungskräfte , Hrsg.: Schuh, G.; Kampker, A.; Stich, V., Apprimus Verlag Aachen 2013, ISBN 978-3-86359-155-7, S. 179-186'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - wagner
+  
+
+- fullname: 'Kampker, A.,Burggräf, P.,Maue, A.' 
+  title: 'ProAktiW' 
+  in: 'Produktionssysteme aktiv wandeln,, 1. Aufl. , Apprimus Verlag Aachen 2013, ISBN 978-3-86359-159-5'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Nee, C.,Kampker, A.,Burggräf, P.' 
+  title: 'Strategic fit assessment for value-added networks of electric engine production' 
+  in: 'Automotive & Vehicle Technologies: AVTECH´ 13 Conference Proceedings October 3-4, 2013 Yildiz/ Turkey, Hrsg.: Ergenc, A.; Atak, Ö., DAKAM Publishing Istanbul 2013, ISBN 978-605-5120-22-1, S. 46-57'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Kreisköther, K.,Burggräf, P.,Meckelnborg, A.,Krunke, M.,Jeschke, S.,Hoffmann, M.' 
+  title: 'Value-oriented layout planning using the Virtual Production Intelligence (VPI)' 
+  in: 'POMS 24th Annual Conference - Proceedings of the 24th Annual Conference of the Production and Operations Management Society , Hrsg.: Schoenherr, T., Production & Operations Management Society Denver/ USA 2013, ISBN 978-0-615-78489-2, S. 233-242'
+  #DOI:
+  year: 2013
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Burggräf, P.' 
+  title: 'Wertorientierte Fabrikplanung' 
+  in: 'Ergebnisse aus der Produktionstechnik, Band 15/2012, Apprimus Verlag Aachen, 2012, ISBN 978-3-86359-071-0'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:  
+    - burggraef
+
+- fullname: 'Schuh, G.,Burggräf, P.,Welter, T.,Kamp, S.' 
+  title: 'Ressourceneffiziente Fabrik- und Produktionsplanung ' 
+  in: 'Ressourceneffiziente Technologien für den Powertrain: 7. bis 18. April 2012, Chemnitz; ICMC 2012 - Kolloquium Ressourceneffiziente Technologien für den Powertrain, 2, 2012, Chemnitz '
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Swist, M.,Ivanescu, S.' 
+  title: 'Geschäftsmodell für den Betrieb von Pools modularer Sonderladungsträger' 
+  in: 'ZWF - Zeitschrift für wirtschaftlichen Fabrikbetrieb 107 (2012), 12, ISSN 0947-0085, S. 932-936'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Meckelnborg, A.,Kreisköther, K.' 
+  title: 'Effiziente Layoutplanung in interdisziplinären Teams' 
+  in: 'Komplexitätsgerechte Tools zur Layoutplanung sichern den nachhaltigen Projekterfolg,in: VDI-Z Integrierte Produktion 154 (2012), 11/12, ISSN 0042-1766 , S. 74-75'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Gartzen, T.,Swist, M.,Bäumers, Y.,Petersohn, G.' 
+  title: 'Costs, Quality and Scalability ' 
+  in: 'Impact on the Value Chain of Electric Engine Production,in: 2nd International Electric Drives Production Conference, EDPC 2012. Proceedings: October 15th - 18th, 2012, Nuremberg, Germany, Hrsg.: Franke, J.Electric Drives Production Conference (EDPC) 15-18 Oct. 2012, 2012. Aufl. , IEEE Service Center Piscataway, NJ/ USA 2013, ISBN 978-1-4673-3007-7; 978-1-4673-3006-0'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.:' 
+  title: 'Herausforderungen bei der Montage von E-Fahrzeugen ' 
+  in: 'wt Werkstattstechnik online 102 (2012), 9, ISSN 1436-4980 , S. 550-555'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Meckelnborg, A.,Burggräf, P.,Welter, T.' 
+  title: 'Integrative Factory Design by Efficient Interaction Models ' 
+  in: 'POMS 23rd Annual Conference - Proceedings of the 23rd Annual Conference of the Production and Operations Management Society "Socially Responsible Operations", Chicago, Illinois, U.S.A.. April 20 to April 23, 2012, Hrsg.: Schoenherr, T., Michigan State University East Lansing, MI 2012, ISBN 978-0-615-61859-3, S. CD-ROM'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Osebold, R.,Trautz, M.,Burggräf, P.,Krunke, M.,Meckelnborg, A.,Leufgens, I.,Rogel, D.' 
+  title: 'Innovative Fabriken interdisziplinär planen ' 
+  in: 'wt Werkstattstechnik online 102 (2012), 4, ISSN 1436-4980, S. 186-192'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Wowreczko, D.' 
+  title: 'The ideal depth of added value in disruptive markets using the production of traction motors as an example ' 
+  in: '2nd International Electric Drives Production Conference, EDPC 2012. Proceedings: October 15th - 18th, 2012, Nuremberg, Germany, Hrsg.: Franke, J.; Hahn, I., IEEE Service Center Piscataway, N.J./ USA 2012, ISBN 978-1-4673-3007-7; 978-1-4673-3006-0, S. 212-215'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
+
+- fullname: 'Kampker, A.,Burggräf, P.,Nee, C.' 
+  title: 'Strategic Fit in Value Added Networks of Electric Vehicle Production' 
+  in: 'IEEM 2012 - 2012 IEEE International Conference on Industrial Engineering and Engineering Management,10-13 Dec. 2012 Hong Kong/ China, Hrsg.: Management, I., IEEE Piscataway/USA 2012, ISBN 978-1-4673-2945-3, S. 396-400'
+  #DOI:
+  year: 2012
+  #link:
+  #doc:
+  autors:
+    - burggraef
