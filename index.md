@@ -61,7 +61,7 @@ D-57076 Siegen
 
 [![IPEM]({{ site.baseurl }}/images/IPEM.jpg){:class="w3-col s6 m3 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/ist1/?lang=de){:target="_blank"}
 
-[![Logistik]({{ site.baseurl }}/images/Logistik.jpg){:class="w3-col s6 m3 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/logistik/?lang=de){:target="_blank"}
+[![Logistik]({{ site.baseurl }}/images/Logistik.jpg){:class="w3-col s6 m1 l1 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/logistik/?lang=de){:target="_blank"}
 
 <br>
 {:class="w3-row"}
