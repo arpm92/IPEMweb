@@ -1,4 +1,12 @@
-- title: 'Eingebetteter Beitrag'
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6650694439171948545'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
   type: linkedin
   src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6647796342263554048'
   height: 520
