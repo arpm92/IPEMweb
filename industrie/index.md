@@ -13,4 +13,4 @@ title: Industrie | IPEM
 - [Durchführung von Planungs- und Beratungsprojekten]({{site.baseurl}}/industrie/beratung)  
 - [Industrie-Arbeitskreise]({{site.baseurl}}/industrie/best_practice)
 - Gemeinsame Beantragung von öffentlichen Forschungsprojekten
-- Ggf. Betreuung von studentischen Abschlussarbeiten in Unternehme
+- Ggf. Betreuung von studentischen Abschlussarbeiten in Unternehmen
