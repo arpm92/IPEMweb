@@ -1,3 +1,194 @@
+- fullname: 'Wagner, J.'
+  title: 'Survey based dataset on disruptions and disruption management in industrial assembly of Germany, Austria and Switzerland'
+  in: 'Medeley Data (2020)'
+  DOI: '10.17632/nn9hztxybb.1'
+  year: 2020
+  #link:
+  #doc: 
+  autors:
+    - wagner
+
+- fullname: 'Burggräf, P., Wagner, J., Dannapfel, M., Fluchs, S., Müller, K., Koke, B.'
+  title: 'Survey based dataset on automation decisions for assembly systems in Germany'
+  in: 'Data in Brief, Available online 29 May 2020'
+  DOI: '10.1016/j.dib.2020.105782'
+  year: 2020
+  #link:
+  doc: 'A clustering approach for topic filtering within systematic literature reviews.pdf'
+  autors:
+    - burggraef
+    - wagner
+    - dannapfel
+    - fluchs
+    - mueller
+    - koke
+
+- fullname: 'Weisser, T., Saßmannshausen, T., Ohrndorf, D., Burggräf, P., Wagener, J.'
+  title: 'A clustering approach for topic filtering within systematic literature reviews'
+  in: 'MethodsX, Vol 7'
+  DOI: '10.1016/j.mex.2020.100831'
+  year: 2020
+  #link:
+  doc: 'A clustering approach for topic filtering within systematic literature reviews.pdf'
+  autors:
+    - weisser
+    - sassmannshausen
+    - ohrndorf
+    - burggraef
+    - wagner
+
+- fullname: 'Burggräf, P., Wagner, J., Weisser, T.'
+  title: 'Knowledge-Based Problem Solving in Physical Product Development - A Methodological Review'
+  in: 'Expert Systems with Applications: X (2020)'
+  DOI: '10.1016/j.eswax.2020.100025'
+  year: 2020
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - wagner
+    - weisser
+
+- fullname: 'Saßmannshausen, T.'
+  title: 'Data from an online survey on initial trust in artificial intelligence for production management tasks'
+  in: 'Mendeley Data (2020)'
+  DOI: '10.17632/pg8hnttzkm.1'
+  year: 2020
+  #link: 
+  #doc: 
+  autors:
+    - sassmannshausen
+
+- fullname: 'Burggräf, P., Kampker, A., Kreisköther, K.D., Dannapfel, M., Adlon, T., Riegauf, A., et al.'
+  title: 'Enabling Smart Workspaces by Implementing an Adaptive Software Framework'
+  in: 'Advances in Human Factors and Systems Interaction: Proceedings of the AHFE 2019 International Conference on Human Factors and Systems Interaction, July 24-28, 2019, Washington D.C., USA / edited by Isabel L. Nunes, 116-127, 2019'
+  DOI: '10.1007/978-3-030-20040-4_11'
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - kampker
+    - kreiskoether
+    - dannapfel
+    - adlon
+    - riegauf
+
+- fullname: 'Burggräf, P., Dannapfel, M., Adlon, T., Riegauf, A., Schmied, J.'
+  title: 'Automation Configuration Evaluation in Adaptive Assembly Systems Based on Worker Satisfaction and Costs'
+  in: 'Advances in Human Factors and Systems Interaction: Proceedings of the AHFE 2019 International Conference on Human Factors and Systems Interaction, July 24-28, 2019, Washington D.C., USA / edited by Isabel L. Nunes, 12-23, 2019'
+  DOI: '10.1007/978-3-030-20040-4_2'
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - dannapfel
+    - adlon
+    - riegauf
+    - schmied
+
+- fullname: 'Burggräf, P., Dannapfel, M., Adlon, T., Kahmann, H.'
+  title: 'Towards Flexible Automotive Assembly Structures in Agile Production Enviroments'
+  in: '1. Stuttgarter Tagung zur Zukunft der Automobilproduktion 2019 - Der Weg zur wandlungsfähigen Produktion. Book of Abstracts; 26. September 2019, Stuttgart, 16-17, 2019'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - dannapfel
+    - adlon
+    - kahmann
+
+- fullname: 'Burggräf, P., Dannapfel, M., Adlon, T., Riegauf, A., Katharina, M., et al.'
+  title: 'Agile Montage: Montageplanung und -system als integrale Bestandteile der Fabrikplanung'
+  in: 'wt Werkstattstechnik online, 109 (9), 622-627, 2019'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - dannapfel
+    - adlon
+    - riegauf
+    - katharina
+
+- fullname: 'Koke, B., Moehler, Robert C.'
+  title: 'Earned Green Value management for project management: A systematic review'
+  in: 'Journal of Cleaner Production (2019), S. 180-197'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - koke
+    - moehler
+
+- fullname: 'Burggräf, P., Dannapfel, M., Wissing, T., Förstmann, R.'
+  title: 'Human Machine Cooperation in Smart Production'
+  in: 'Evaluation of the Organizational Readiness, in: International Journal of Mechanical Engineering and Robotics Research 8 (2019), 2, ISSN 2278-0149, S. 327-332'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - dannapfel
+    - wissing
+    - foerstmann
+
+- fullname: 'Burggräf, P., Wagner, J., Bischoff, O.'
+  title: 'Performance improvements in horizontally integrated production networks through real-time reschduling in the event of disruptions'
+  in: 'Management and Production Engineering Review, Volume 10, Number 3, September 2019, pp. 29-40'
+  DOI: '10.24425/mper.2019.129596'
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - wagner
+    - bischoff
+
+- fullname: 'Wagner, J.'
+  title: 'Wirtschaftliche Störungsprävention in der Kleinserienmontage'
+  in: 'Ergebnisse aus der Produktionstechnik, Band 32/2019, Apprimus Verlag Aachen, 2019, ISBN 978-3-86359-751-1'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - wagner
+    
+- fullname: 'Burggräf, P., Wagner, J., Dannapfel, M., Fluchs, S., Müller, K., Koke, B.'
+  title: 'Automation decisions in flow-line assembly systems based on a cost-benefit analysis'
+  in: 'S ScienceDirect, 52nd CIRP Conference on Manufacturing Systems, 2019, S.529-534'
+  DOI: '10.1016/j.procir.2019.03.150'
+  year: 2019
+  #link: 
+  #doc: 
+  autors:
+    - burggraef
+    - dannapfel
+    - wagner
+    - mueller
+    - fluchs
+    - koke
+
+- fullname: 'Burggräf, P., Dannapfel, M., Adlon, T., Müller, K.'
+  title: 'Die Montage passt sich an'
+  in: 'Adaptive Assistenzsysteme für den Menschen in der Fabrik der Zukunft,  Industrieanzeiger 141 (2019), 15/16, ISSN 0019-9036, S. 26-27'
+  #DOI: 
+  year: 2019
+  #link: 
+  #doc:
+  autors:
+    - burggraef
+    - dannapfel
+    - adlon
+    - mueller
+
 - fullname: 'Burggräf, P., Pérez Martínez, A.R, Wagner, J., Roth, H.'
   title: 'Quadrotors in factory applications: design and implementation of the quadrotor´s P-PID cascade control system'
   in: 'SN Applied Sciences, SpringerLink'
@@ -9,6 +200,21 @@
     - perez
     - burggraef
     - wagner
+
+- fullname: 'Burggräf, P., Lorenz, U., Stache, U., Wagner, J., Saßmannshausen, T., Ohrndorf, D.' 
+  title: 'Intelligente Zustandsüberwachung durch akustische Analyse und Machine Learning' 
+  in: 'Researchgate'
+  DOI: '10.13140/RG.2.25661.31200'
+  year: 2019
+  #link: 
+  doc: '190610_ML_Coffee_Case_RG_v06_hrn.pdf'
+  autors:
+    - burggraef
+    - lorenz
+    - stache
+    - wagner
+    - sassmannshausen
+    - ohrndorf
 
 - fullname: 'Burggräf, P., Wagner, J., Pérez, A'
   title: 'Virtual Engineering Applied to the Factory Planning Process'
@@ -22,19 +228,28 @@
     - burggraef
     - wagner
 
-- fullname: 'Weisser, T., Saßmannshausen, T., Ohrndorf, D., Burggräf, P., Wagener, J.'
-  title: 'A clustering approach for topic filtering within systematic literature reviews'
-  in: 'MethodX, Vol 7'
-  DOI: '10.1016/j.mex.2020.100831'
-  year: 2020
+- fullname: 'Saßmannshausen, T.'
+  title: 'Vertrauen in Entscheidungen künstlicher Intelligenz im Produktionsmanagement - eine empirische Analyse'
+  in: 'Wirtschaftswissenschaftliches Forum der FOM, Band 59, Shaker Verlag'
+  #DOI: 
+  year: 2019
   #link:
-  doc: 'A clustering approach for topic filtering within systematic literature reviews.pdf'
+  #doc: 
   autors:
-    - weisser
     - sassmannshausen
-    - ohrndorf
+
+- fullname: 'Burggräf, P., Wagner, J., Koke, B., Manoharan, K.' 
+  title: 'Sensor retrofit for a coffee machine as condition monitoring and predictive maintenance use case' 
+  in: 'Ludwig, T., Pipek, V. (Hrsg): Tagungsband - 14. Internationale Tagung Wirtschaftsinformatik, 2019, S. 62-66'
+  #DOI:
+  year: 2019
+  #link: 
+  doc: 'https://wi2019.de/wp-content/uploads/Tagungsband_WI2019_reduziert.pdf'
+  autors:
     - burggraef
     - wagner
+    - koke
+    - manoharan
 
 - fullname: 'Burggräf, P., Wagner, J., Dannapfel, M., Müller, K., Koke, B.' 
   title: 'Multivariable Automatisierungsentscheidungen - Tool zur Aufwand- und Nutzenbewertung als Entscheidungsgrundlage' 
