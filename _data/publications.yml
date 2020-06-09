@@ -290,8 +290,8 @@
   in: 'Forschung & Lehre, Jahrgang 26, Ausgabe 3, 2019, S. 234-236'
   #DOI:
   year: 2019
-  link: 'ful_3-19_burggraef' 
-  #doc:
+  #link: 
+  doc: 'ful_3-19_burggraef.pdf' 
   autors:
     - burggraef
 
