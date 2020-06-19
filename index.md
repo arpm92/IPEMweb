@@ -55,13 +55,13 @@ D-57076 Siegen
 
 # Andere Lehrstühle des Instituts für Produktionstechnik
 
-[![FAMS]({{ site.baseurl }}/images/fams neu.jpg){:class="w3-col s3 m3 l3 w3-card-4 w3-margin w3-hover-opacity"}](https://fams.mb.uni-siegen.de/){:target="_blank"}
+[![FAMS]({{ site.baseurl }}/images/fams neu.jpg){:class="w3-col s3 m2 l3 w3-card-4 w3-margin w3-hover-opacity"}](https://fams.mb.uni-siegen.de/){:target="_blank"}
 
-[![Ergonomie]({{ site.baseurl }}/images/Ergonomie neu.jpg){:class="w3-col s3 m3 l3 w3-margin w3-card-4 w3-hover-opacity"}](http://www.mb.uni-siegen.de/ergonomie/?lang=de){:target="_blank"}
+[![Ergonomie]({{ site.baseurl }}/images/Ergonomie neu.jpg){:class="w3-col s3 m2 l3 w3-margin w3-card-4 w3-hover-opacity"}](http://www.mb.uni-siegen.de/ergonomie/?lang=de){:target="_blank"}
 
-[![IPEM]({{ site.baseurl }}/images/IPEM neu.jpg){:class="w3-col s3 m3 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/ist1/?lang=de){:target="_blank"}
+[![IPEM]({{ site.baseurl }}/images/IPEM neu.jpg){:class="w3-col s3 m2 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/ist1/?lang=de){:target="_blank"}
 
-[![Logistik]({{ site.baseurl }}/images/Logistik neu.jpg){:class="w3-col s3 m3 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/logistik/?lang=de){:target="_blank"}
+[![Logistik]({{ site.baseurl }}/images/Logistik neu.jpg){:class="w3-col s3 m2 l3 w3-card-4 w3-margin w3-hover-opacity"}](http://www.mb.uni-siegen.de/logistik/?lang=de){:target="_blank"}
 
 <br>
 {:class="w3-row"}
