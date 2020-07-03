@@ -1,4 +1,59 @@
-- title: 'Eingebetteter Beitrag'
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6665910192405905408'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6660837424337428480'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6658385890945089537'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6656844272517681152'
+  height: 520
+  active: true
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6656109725140295681'
+  height: 520
+  active: true
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6652875293042311168'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6651868082061090816'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6650694439171948545'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
   type: linkedin
   src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6647796342263554048'
   height: 520
