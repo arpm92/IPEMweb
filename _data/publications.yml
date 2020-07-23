@@ -1,3 +1,16 @@
+- fullname: 'Burggräf, P., Wagner, J., Koke, B., Steinberg, F.'
+  title: 'Approaches for the prediction of lead times in an engineer to order enviroment - a systematic review'
+  in: 'IEEE Access'
+  DOI: '10.1109/ACCESS.2020.3010050'
+  year: 2020
+  #link:
+  doc: '09143119.pdf'
+  autors:
+    - burggraef
+    - wagner
+    - koke
+    - steinberg
+
 - fullname: 'Wagner, J.'
   title: 'Survey based dataset on disruptions and disruption management in industrial assembly of Germany, Austria and Switzerland'
   in: 'Medeley Data (2020)'
