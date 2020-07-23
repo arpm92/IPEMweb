@@ -1,6 +1,27 @@
 - 
   title: 'Eingebetteter Beitrag'
   type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6687301618762846208'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6668465146328883200'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
+  src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6672072803585441792'
+  height: 520
+  active: true
+
+- 
+  title: 'Eingebetteter Beitrag'
+  type: linkedin
   src: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6665910192405905408'
   height: 520
   active: true
