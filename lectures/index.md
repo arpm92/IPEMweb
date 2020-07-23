@@ -6,7 +6,6 @@ layout: default
 
 ---
 
-Project Management: Die Veranstaltungen Project Management I, Project Management III, Projektmanagement V sowie Projektmanagement Grundlagen I werden in diesem Wintersemester wieder als Blockveranstaltung stattfinden. Die Termine und Räume sind in Unisono zu finden. Die Belegphase ist ab sofort geöffnet und schließt am 4. Januar 2020.
 
 # Prüfungen
 
