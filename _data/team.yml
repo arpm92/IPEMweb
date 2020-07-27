@@ -195,6 +195,24 @@
   #gschoolar: not found
   #resume: ''
   active: true
+  
+- filename: bla
+  fullname: Robin B 
+  status: staff
+  team: Gruppe Produktionsmanagement
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: rene.sauer@uni-siegen.de
+  image: /team/images/sauer.jpg
+  office: PB-A 304
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: https://www.xing.com/profile/Rene_Sauer14
+  linkedin: https://www.linkedin.com/in/ren%C3%A9-sauer-1a503b156/
+  #orcid: not found
+  #gschoolar: not found
+  #resume: ''
+  active: true
 
 - filename: balada
   fullname: Eva Balada Rosa 
