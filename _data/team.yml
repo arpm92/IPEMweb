@@ -197,18 +197,36 @@
   active: true
   
 - filename: bla
-  fullname: Robin B 
+  fullname: Philipp Nettesheim, M.Sc. 
+  status: staff
+  team: Gruppe Fabrikplanung für den Mittelstand
+  tel: +49 271 740 - 2630 (Sekretariat)
+  fax: +49 271 740 - 12628
+  email: philipp.nettesheim@uni-siegen.de
+  image: /team/images/nettesheim.jpg
+  office: PB-A 303
+  hours: nur nach Vereinbarung
+  publication: true
+  xing: https://www.xing.com/profile/Philipp_Nettesheim
+  linkedin: https://www.linkedin.com/in/philipp-nettesheim-73ba191ab/?originalSubdomain=de
+  #orcid: not found
+  #gschoolar: not found
+  #resume: ''
+  active: true
+
+- filename: bla
+  fullname: Robin Baumblüth, M.Sc. 
   status: staff
   team: Gruppe Produktionsmanagement
   tel: +49 271 740 - 2630 (Sekretariat)
   fax: +49 271 740 - 12628
-  email: rene.sauer@uni-siegen.de
-  image: /team/images/sauer.jpg
-  office: PB-A 304
+  email: robin.baumblueth@uni-siegen.de
+  image: /team/images/baumblueth.jpeg
+  office: PB-A 302
   hours: nur nach Vereinbarung
   publication: true
-  xing: https://www.xing.com/profile/Rene_Sauer14
-  linkedin: https://www.linkedin.com/in/ren%C3%A9-sauer-1a503b156/
+  xing: https://www.xing.com/profile/Robin_Baumblueth
+  linkedin: https://www.linkedin.com/in/robin-baumbl%C3%BCth-4b2085130/?originalSubdomain=de
   #orcid: not found
   #gschoolar: not found
   #resume: ''
