@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "24.06.2019: Dennis Ohrndorf ist seit dem 15. Mai 2019 wissenschaftlicher Mitarbeiter am IPEM-Lehrstuhl"
+title:  "Dennis Ohrndorf ist seit dem 15. Mai 2019 wissenschaftlicher Mitarbeiter am IPEM-Lehrstuhl"
 
 ---
 

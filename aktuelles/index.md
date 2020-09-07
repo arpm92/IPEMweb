@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+<!--
 
 # News auf LinkedIn
+
 
 
 <div> 
@@ -12,3 +14,5 @@ layout: default
     {% endif %}
 {% endfor %}
 </div>
+
+-->

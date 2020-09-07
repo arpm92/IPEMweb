@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Besetzung des IPEM-Lehrstuhls seit dem 01. April 2017 durch Univ.-Prof. Dr.-Ing. Peter Burggräf"
-date:   2017-05-23 00:00:00 +0100
 
 ---
 
